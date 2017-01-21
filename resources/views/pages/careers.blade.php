@@ -3,7 +3,7 @@
 @section('title', 'Temp')
 
 @section('content')
-	<section>
+	<section class="career-section">
 		<div class="container">
 			<p class="sub-title-text bold blue">
 				Looking forward to a successful career! 

@@ -56,7 +56,7 @@
 				</div>
 
 				<div class="col-sm-3">
-					<img class="team-image" src="images/about/sandeep.jpg"/>
+					<img class="team-image" src="images/about/sandeep.jpeg"/>
 				</div>
 				<div class="col-sm-9">
 					<p class="bold blue">
