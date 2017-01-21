@@ -37,7 +37,7 @@ class EmailService
                 if ($from) {
                     $msg->from([$from]);
                 }
-                $msg->to([$to]);
+                $msg->to($to);
                 $msg->subject($subject);
             });
         } catch (\Exception $e) {

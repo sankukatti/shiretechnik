@@ -20,7 +20,7 @@ class ContactsController extends Controller {
 		$message = $request->input('messageTxt')."";
 		$token = $request->input('token');
 		Log::info($message);
-		$this->emailService->sendMail(['name' => $name, 'email' => $email, 'txt' => $message], "info@shiretechnik.com", env('NEW_CONTACT_MAIL_TO'), "New Contact", 'email.newContact');
+		$this->emailService->sendMail(['name' => $name, 'email' => $email, 'txt' => $message], "info@shiretechnik.com", explode(',',env('NEW_CONTACT_MAIL_TO')), "New Contact", 'email.newContact');
 		return redirect('/');
 	}
 
