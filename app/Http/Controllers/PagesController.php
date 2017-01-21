@@ -14,6 +14,7 @@ class PagesController extends Controller
 		/*Get json file which contains HVAC content*/
 		$path 				= storage_path() . "/json/hvac.json";
 		$json 				= json_decode(file_get_contents($path), true); 
+		$directoryName 		= 'hvac';
 
 		$files = $this->getImageFiles($directoryName);
 		

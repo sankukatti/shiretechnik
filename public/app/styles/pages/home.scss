@@ -11,6 +11,7 @@
 		}
 	}
 
+
 	.slider {
 		#homeCarousel {
 			/*border: 1px solid $logoBrown;*/
@@ -48,6 +49,24 @@
 					color: $logoBlue;
 				}
 			}
+
+			.carousel-caption {
+				background-color: rgba( black, 0.6);
+				width: 308px;
+				margin: auto;
+				ul {
+    				margin: auto;
+    				text-align: left;
+
+    				li {
+    					background: url(/images/icons/list_icon_brown.png) 1px 8px no-repeat;
+    					background-size: 8px;
+    					margin: 0px;
+    					font-size: 14px;
+    				}
+				}	
+			}
+			
 		}
 	}
 

@@ -27,7 +27,8 @@ Route::get( '/industries/elecCooling', 'PagesController@getElecCooling' );
 
 Route::get( '/about', 'PagesController@getAbout' );
 
-Route::post( '/contact', 'ContactsController@sendContact');
+Route::get( '/contact', 'ContactsController@getContact' );
+Route::post( '/contact', 'ContactsController@sendContact' );
 
 Route::get( '/careers', 'PagesController@getCareers');
 

@@ -13,12 +13,19 @@ class ContactsController extends Controller {
 	function __construct() {
         $this->emailService = new EmailService;
     }
+
 	public function sendContact( Request $request ) {
+		$name = $request->input('name');
 		$email = $request->input('email');
-		Log::info($email);
+		$message = $request->input('messageTxt')."";
 		$token = $request->input('token');
-		$this->emailService->sendMail(['email' => $email], "info@shiretechnik.com", "sankukatti@gmail.com", "New Contact", 'email.newContact');
+		Log::info($message);
+		$this->emailService->sendMail(['name' => $name, 'email' => $email, 'txt' => $message], "info@shiretechnik.com", env('NEW_CONTACT_MAIL_TO'), "New Contact", 'email.newContact');
 		return redirect('/');
+	}
+
+	public function getContact( Request $request ) {
+		return view( 'pages.contact' );
 	}
 }
 

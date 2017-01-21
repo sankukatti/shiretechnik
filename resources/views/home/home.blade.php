@@ -31,11 +31,29 @@
 								    @endif
 						                    <img src="images/slider/{{ $files[$i][0] }}" alt="Cfd3"/>
 						                    @if( count($files[$i]) > 1 )
-							                    <div class="carousel-caption">
-							                        <h3>{{$files[$i][1]['title']}}</h3>
-							                        <p>{{$files[$i][1]['desc1']}}</p>
-							                        <p>{{$files[$i][1]['desc2']}}</p>
-							                    </div>
+								            	<a href= @if( isset( $files[$i][1]['link'] ) ) 
+								            				{{$files[$i][1]['link']}}
+								            			@endif >
+								            		<div class="carousel-caption">
+								                        <h5>{{$files[$i][1]['title']}}</h5>
+								                        
+								                        @if( isset( $files[$i][1]['list'] ) )
+								                        	<ul class="block list">
+											
+																@for ( $k = 0; $k < count( $files[$i][1]['list'] ); $k++ )
+																	<li class="text">
+																		{{ $files[$i][1]['list'][$k] }}
+																	</li>
+																@endfor
+																
+															</ul>
+								                        @endif
+								                        
+								                        <p>{{$files[$i][1]['desc1']}}</p>
+								                        <p>{{$files[$i][1]['desc2']}}</p>
+								                    </div>
+								            	</a>     
+								                    
 							                @endif
 					                	</div>
 								@endfor

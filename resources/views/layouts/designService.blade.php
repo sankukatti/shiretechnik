@@ -5,7 +5,7 @@
 	</a>
 	<ul class="dropdown-menu">
 		<li><a href="/products/elecCooling">Thermal Design Consulting Services</a></li>
-		<li><a href="/products/elecCooling">CFD Services</a></li>
+		<li><a href="/products/hvac">CFD Services</a></li>
 		<li><a href="/products/reliability">Reliability Consulting Services</a></li>
 		<li><a href="/products/mechDesign">Mechanical Design Consulting Services</a></li>
 	</ul>

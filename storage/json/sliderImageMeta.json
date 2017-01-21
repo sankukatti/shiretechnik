@@ -1,13 +1,47 @@
 {	
 	"one" : {
-		"title" : "ARP",
-		"desc1" : "Aero research partners",
-		"desc2" : "Introducing worlds first premier full size vehicle testing facility"
+		"title" : "HVAC Services",
+		"desc1" : "",
+		"desc2" : "",
+		"list" : [
+			"Building, Industrial Ventilation", "Cooling and heating", "Data centre", "Clean room",
+			"Tunnel ventilation"
+		],
+		"link" : "/products/hvacServices"
 	},
 
 	"two" : {
-		"title" : "Milelong",
-		"desc1" : "Indoor testing facility",
-		"desc2" : "2 millong straignt and flat indoor testing facility for all vehicals with a working cross section"
+		"title" : "Shiretechnik",
+		"desc1" : "Your trusted engineering solution partner committed to achieving the design requirement in terms of product efficiency, reliability and performance by using our technical know-how",
+		"desc2" : "",
+		"link" 	: "/"
+	},
+
+	"three" : {
+		"title" : "Thermal Simulation & Analysis for All Domain",
+		"desc1" : "",
+		"desc2" : "",
+		"list" : [
+			"Concept level analysis", "Layout analysis", "Component detail level analysis", 
+			"System level analysis" ],
+		"link" 	: "/products/elecCooling"
+	},
+
+	"four" : {
+		"title" : "Turbomachinery CFD software ",
+		"desc1" : "",
+		"desc2" : "",
+		"list" : [
+			"Open FOAM based CFD Workflow for rotating machinery", 
+			"Turbo blade Post -Post processing Para View Plugin"],
+		"link" 	: "/products/turboSoftware"
+	},
+
+	"five" : {
+		"title" : "Air Terminal Devices",
+		"desc1" : "",
+		"desc2" : "",
+		"list"  : ["Volume Flow controller", "Air Grille", "Multi-leaf Damper", "Swirl Diffuser"],
+		"link"  : "/products/hvacProducts"
 	}
 }

@@ -1,0 +1,31 @@
+.contact-us {
+	margin-bottom: 100px;
+
+	strong {
+		color: $logoBrown;
+		display: block;
+		text-align: center;
+	}
+
+	.address {
+		padding: 20px 0px;
+		
+		p {
+			/*color: white;*/
+		}
+	}
+
+	.social-images-block {
+		text-align: center;
+
+		img {
+			width : 50px;
+			margin: 20px 10px;
+		}
+	}
+
+	.contact-us-block {
+		text-align: center;
+		margin-top: 30px;		
+	}
+}

@@ -195,7 +195,7 @@
 				@if ( isset( $json['contact'] ) )
 					<p class="block text justify contactUs">
 						{{$json['contact']}}
-						<a href="javascript:;">Contact us</a>
+						<a href="/contact">Contact us</a>
 					</p>
 				@endif
 			</div>
