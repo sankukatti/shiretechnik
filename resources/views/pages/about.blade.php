@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Temp')
+@section('title', 'About us')
 
 @section('content')
 	<section class="about-us-page">

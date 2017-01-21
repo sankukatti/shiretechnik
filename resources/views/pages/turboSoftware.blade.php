@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Temp')
+@section('title', 'Software')
 
 @section('content')
 	<section class="turboSoftware">

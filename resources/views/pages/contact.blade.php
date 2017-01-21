@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Temp')
+@section('title', 'Contact us')
 
 @section('content')
 	<section class="contact-us">
