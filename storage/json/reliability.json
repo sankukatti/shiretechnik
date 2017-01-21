@@ -1,0 +1,27 @@
+{
+	"order" : ["title"],
+	"class" : "reliability",
+	"title" : "Reliability Consulting Services",
+	"text" : "SHIRETEHNIK helps its clients to build products of high reliability and to deliver world-class products and services.",
+	"contact" : "To discuss your reliability analysis requirements, please ",
+	"sub_sections" : [
+		{
+			"order" : ["text1"],
+			"text1" : "Our team has combined expertise in almost all areas of reliability and quality engineering with experience that spans a wide-spectrum of product types."
+		},
+		{
+			"order" : ["text1"],
+			"text1" : "Using a highly-structured process to manage our projects we ensure our work is delivered on time and to budget so long term relationships with the companies we serve."
+		},
+		{
+			"order" : ["subtitle", "list"],
+			"subtitle" : "SHIRETECHNIK offers the following reliability services:",
+			"list" : [
+				"Reliability Prediction",
+				"Failure Mode Effects and Criticality Analysis",
+				"Fault Tree Analysis",
+				"Failure Analysis of Electronic Components"
+			]
+		}
+	]
+}

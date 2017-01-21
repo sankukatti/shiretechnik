@@ -1,0 +1,101 @@
+$backgroundColour 	: white;
+$fontGrey 			: #2b2b2b;
+$brown 				: #CF651B;
+$lightBrown 		: #feb600;
+$logoBlue 			: #15848E;
+$logoBrown 			: #F7941E;
+
+//fonts
+$font_1: QuattrocentoSans-Bold;
+$font_2: QuattrocentoSans-Regular;
+
+//urls
+$url_1: url(/app/fonts/QuattrocentoSans-Bold.otf);
+$url_2: url(/app/fonts/QuattrocentoSans-Regular.otf);
+
+@font-face {
+	font-family: $font_1;
+	src: $url_1 format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: $font_2;
+	src: $url_2 format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: $font_2 !important;
+	font-weight: normal;
+	letter-spacing: 1px;
+	background-color: $backgroundColour;
+
+
+	p {
+		margin-bottom: 0px;
+	}
+
+	button, html, input, select, textarea {
+		font-family: $font_2 !important;
+	}
+
+	a {
+		outline: none !important;
+
+		&:active {
+			outline: none !important;
+		}
+	}
+
+	ul {
+		list-style: none;
+	}
+
+}
+
+.wrapper {
+	min-height: 100%;
+	position: relative;
+
+	.content: {
+		position: relative;
+	}
+}
+
+.title-text {
+	font-size: 30px;
+}
+
+.sub-title-text {
+	font-size: 25px;
+}
+
+.headding {
+	font-size: 20px;
+}
+
+.text {
+	font-size: 16px;
+}
+
+.blue {
+	color: $logoBlue;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.capital {
+	text-transform: uppercase;
+}
+
+.justify {
+	text-align: justify;
+}
+
+.background-blue {
+	background-color: $logoBlue;
+}

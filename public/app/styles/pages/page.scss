@@ -1,0 +1,125 @@
+.page { /* Every page other than home, careers and forum.*/
+	margin-bottom: 200px;
+
+	.images { /*Images section*/
+		margin-top: 50px;
+		margin-bottom: 50px;
+
+		.images-list {
+			padding: 0px;
+			/*text-align: center;*/ /*To center the lis*/
+
+			.image {
+				width: 30%;
+				display: inline-block;
+
+				img {
+					width: 100%;
+					height: 200px;
+				}
+			}
+		}
+	}
+
+	.imformation-text { /*Information block. Cantain text blocks and lists.*/
+		margin-top: 50px;
+
+		.block {
+			margin-top: 20px;
+		}
+
+		.title-spacing {
+			margin-top: 30px;
+			margin-bottom: 20px;
+		}
+
+		.list {
+			/*list-style: disc;*/
+
+			li {
+				padding-left: 1.5em;
+    			background: url(/images/icons/list_icon_blue.png) 1px 8px no-repeat;
+    			background-size: 8px;
+    			margin-top: 10px;
+			}
+		}
+
+		.product {
+			margin-bottom: 50px;
+
+			.list {
+				margin-top: 0px;
+			}
+		}
+
+		.imgTitle {
+			text-align: center;
+		}
+
+		.productimage {
+			width: 100%;
+		}	
+
+		.contactUs {
+			margin-top: 50px;
+		}
+	}
+}
+
+@media only screen and (max-width:767px) {
+	.page {
+		.images {
+			.images-list {
+				.image {
+					width: 45%;
+					img {
+
+					}
+				}
+
+				.no-mobile {
+					display: none;
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (max-width:767px) {
+	.page {
+		.images {
+			.images-list {
+				.image {
+					width: 45%;
+					img {
+
+					}
+				}
+
+				.no-mobile {
+					display: none;
+				}
+			}
+		}
+	}
+}
+
+
+@media only screen and (max-width:420px) {
+	.page {
+		.images {
+			.images-list {
+				.image {
+					width: 95%;
+					img {
+
+					}
+				}
+
+				.no-tab {
+					display: none;
+				}
+			}
+		}
+	}
+}

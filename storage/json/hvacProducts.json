@@ -1,0 +1,88 @@
+{
+	"order" : ["title"],
+	"class" : "hvacProducts",
+	"title" : "HAVC product Solution",
+	"text" : "Efficient and economic air distribution is what needed in any HVAC project. Without efficient Distribution of conditioned air, the whole process of conditioning of air is wastage of energy. Shiretechnik provide perfect solutions for accurate air distribution Solutions through its constant air volume products.",
+	"contact" : "For product technical details, please",
+	"sub_sections" : [
+		{
+			"order" : ["text1"],
+			"title" : "",
+			"text1" : "Constant Volume Control (CAV) is a mechanical volume flow unit which provide maintenance free operations. CAV replace conventional throttle elements in ventilation systems which are pressure independent product."
+		},
+
+		{
+			"order" : ["text1", "list"],
+			"title" : "",
+			"text1" : "This is also maintaining hygiene standard and suitable for various applications like:",
+			"list" : [ "Clean room and Pharmaceutical for pressure air control.", "Fresh air application in VRF systems.",
+						"Within Air Handling Units applications.", "Hotel Industry – Constant exhaust and supply air for various locations.",
+						"High end commercial buildings", "Laboratory exhaust control –bench hood etc", "And many more."
+			]
+		},
+
+		{
+			"order" : ["title"],
+			"title" : "PROCUCTS"
+		},
+
+		{
+			"order" : ["subtitle", "product"],
+			"subtitle" : "CAV",
+			"product" : {
+				"image" : "hvacProducts/products/cav.jpg",
+				"list" : [ "Adjustable on site.", 
+							"Outstanding control accuracy.",
+							"Sizes B x H = 200 x 100 to 600 x 300",
+							"Casing tightness class C according to DIN EN 1751.", 
+							"Total volume flow range: Vmin = 200 to Vmax = 7000 m³/h",
+							"Pressure range: 50 to 1000 Pa ", 
+							"Interior temperature range: -20 to +70°C, up to 90°C for a short time only"
+				]
+			}
+		},
+
+		{
+			"order" : ["subtitle", "product"],
+			"subtitle" : "Circular CAV",
+			"product" : {
+				"image" : "hvacProducts/products/circularCav.jpg",
+				"list" : [ "Adjustable on site.", "Outstanding control accuracy.", 
+							"Sizes: DN 80 to DN 315",
+							"Casing tightness class C according to DIN EN 1751.", 
+							"Total volume flow range: Vmin = 50 to Vmax = 3100 m³/h",
+							"Pressure range: 50 to 1000 Pa", 
+							"Interior temperature range: -20 to +70°C, up to 90°C for a short time only",
+							"Options Actuator AC 230 V or AC/DC 24 V, setting to two volume flow set points.", 
+							"Continuous actuator AC/DC 24 V, setting to any desired volume flow set point. ",
+							"External acoustic insulation with sheet metal jacket.",
+							"Lip seals on both sides."
+				]
+			}	
+		},
+
+		{
+			"order" : ["subtitle", "product"],
+			"subtitle" : "Flow control Limiter",
+			"product" : {
+				"image" : "hvacProducts/products/flowControlLimiter.jpg",
+				"list" : [ "Operates without an auxiliary power supply, for ventilation and air conditioning systems.", 
+							"Sizes DN 80 to DN 250. (13m3/h to 1050 m3/h)",
+							"Flow velocities from 0.8 m/s; Differential pressures from 30 Pa.", 
+							"Infinitely adjustable volume flows using scales.",
+							"Hygienic design using microbe-resistant materials.", 
+							"Environmental Product Declaration according to ISO 14025 and EN 15804"
+				]
+			}	
+		},
+
+		{
+			"order" : ["subtitle", "product"],
+			"subtitle" : "Grill and Diffuser",
+			"product" : {
+				"image" : "hvacProducts/products/grillDiffuser.jpg",
+				"text" : "Shiretechnik is associated with a leading Brand from Germany. Shiretechnik also offer, Swirl diffusers, Grilles, silencers with German Hygiene Standards."
+			}	
+		}
+	]
+}

@@ -1,0 +1,55 @@
+.elecCooling {
+	.images { /*Images section*/
+		margin-top: 50px;
+		margin-bottom: 0px;
+		
+		.images-list {
+			padding: 0px;
+			/*text-align: center;*/ /*To center the lis*/
+
+			.image {
+				width: 49%;
+				display: inline-block;
+
+				img {
+					width: 100%;
+					height: 100%;
+				}
+
+			}
+		}
+
+		.top-image-title, .bottom-image-title {
+			margin-bottom: 20px;
+		}
+
+		.bottom-image-title {
+			text-align: center;
+		}
+	}
+
+	.image-list {
+
+		.image {
+			margin-top: 0px;
+			display: inline-block;
+			width: 170px;
+
+			img {
+				width: 100%;
+			}
+
+			p {
+				margin-top: 5px;
+				text-align: center;
+			}
+		}
+	}
+
+	.subSectionImage {
+		width: 200px;
+	}
+	.imgTitle {
+		display: inline-block;
+	}
+}

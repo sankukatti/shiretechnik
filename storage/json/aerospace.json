@@ -1,0 +1,41 @@
+{
+	"order" : ["images","title"],
+	"class" : "aerospace",
+	"title" : "AEROSPACE",
+	"text" : "",
+	"contact" : "For technical details, please",
+	"sub_sections" : [
+		{
+			"order" : ["subtitle", "text1", "list"],
+			"subtitle" : "ELECTRONICS",
+			"text1" : "Avionics Cooling",
+			"list" : [
+				"Conjugate heat transfer",
+				"Thermal stress",
+				"Natural and forced convection air cooling",
+				"Strong interest in PCB thermal analysis",
+				"Trace joule heating"
+			]
+		},
+		{
+			"order" : ["subtitle", "text1", "list"],
+			"subtitle" : "CABIN and COCKPIT",
+			"text1" : "Air conditioning",
+			"list" : [
+				"Natural, mixed and forced convection",
+				"Comfort indices, PPD, PMV (ISO 7730)",
+				"Humidity",
+				"Solar loading"
+			]
+		},
+		{
+			"order" : ["text1", "list"],
+			"text1" : "Avionics controls, ",
+			"list" : [
+				"airborne communication",
+				"surveillance and guidance systems,",
+				"Radar"
+			]
+		}
+	]
+}

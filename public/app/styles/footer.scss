@@ -1,0 +1,35 @@
+.footer-section {
+	margin-top: 50px;
+	/*bottom: 0;
+	left: 0;
+	width: 100%;
+	position: absolute;*/
+	
+	strong {
+		margin-top: 30px;
+		color: $logoBrown;
+		display: block;
+	}
+
+	.address {
+		padding: 20px 0px;
+		
+		p {
+			color: white;
+		}
+	}
+
+	.social-images-block {
+		/*text-align: center;*/
+
+		img {
+			width : 50px;
+			margin: 20px 10px;
+		}
+	}
+
+	.contact-us-block {
+		text-align: center;
+		margin-top: 30px;		
+	}
+}

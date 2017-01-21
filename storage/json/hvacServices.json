@@ -1,0 +1,126 @@
+{
+	"order" : ["title"],
+	"class" : "hvacServices",
+	"title" : "HAVC SERVICE",
+	"text" : "",
+	"contact" : "For technical details, please",
+	"sub_sections" : [
+		{
+			"order" : ["title"],
+			"title" : "BUILDING"
+		},
+
+		{
+			"order" : ["subtitle"],
+			"subtitle" : "COMFORT VENTILATION"
+		},
+
+		{
+			"order" : ["text1", "list"],
+			"class" : "leftIndented",
+			"text1" : "Thermal comfort and indoor air quality",
+			"list" : [
+					"Predicting room conditions",
+					"Air velocity, temperature",
+					"Relative humidity, thermal radiation",
+					"Pollutant"
+			]
+		},
+
+		{
+			"order" : ["text1", "list"],
+			"class" : "leftIndented",
+			"text1" : "Assessment of a variety of comfort criteria",
+			"list" : [
+					"Combined with information about occupant activity and clothing",
+					"Impact of heat loss through the structure, including solar gain effects"
+			]
+		},
+
+		{
+			"order" : ["text1", "list"],
+			"class" : "leftIndented",
+			"text1" : "Testing effectiveness of novel strategies and concepts:",
+			"list" : [
+					"Natural and mixed ventilation",
+					"Minimizing energy consumption"
+			]
+		},
+
+		{
+			"order" : ["subtitle","text1", "list"],
+			"subtitle" : "FIRE AND SMOKE MODELING",
+			"text1" : "Regulations and safety concerns require efficient ventilation and detection systems; software from ANSYS provides cost effective help for:",
+			"list" : [
+					"Understanding the spread of smoke and heat",
+					"Designing efficient equipment for fire suppression",
+					"Predicting the distribution of suppression agents",
+					"Studying their interactions with the fire and smoke",
+					"Identifying how fires develop"
+			]
+		},
+
+		{
+			"order" : ["subtitle", "list"],
+			"subtitle" : "HVAC EQUIPMENT DESIGN",
+			"list" : [
+					"Fans – radial and axial",
+					"Heating system design",
+					"HVAC ducting",
+					"Environmental control systems",
+					"Centrifugal blower",
+					"Heat exchangers- PHE and Shell and Tube type ",
+					"Pumps",
+					"Air curtains, mixers",
+					"Blowers",
+					"Industrial compressors",
+					"Crossflow fans",
+					"Exhaust hoods",
+					"Blowers, fans and compressors"
+			]
+		},
+
+		{
+			"order" : ["title", "text1"],
+			"title" : "CARPARK AND TUNNEL VENTILATION",
+			"text1" : "CO (Carbon monoxide control is essential design requirement l in covered car parks. Under designed ventilation system, parking facility turns out IAQ problems. Exposure of CO leads various type of health issues even death in extreme case. So it is a necessary design need of proper ventilated system,  CFD analysis will be ensuring that the ventilation system meets the NBC, ASHRAE and WHO guidelines for CO exposure and contaminant control. The working of staircase pressurization, zone modelling with or without using directional jet fan for CO removal can also be analysed. The acceptance contaminant level criterion for parking garages is recommended in ASHRAE 2007 Handbook."
+		},
+
+		{
+			"order" : ["text1"],
+			"text1" : "Service: ventilation design, axial fan sizing and estimation jet fan number, optimization of location ."
+		},
+
+		{
+			"order" : ["title", "text1"],
+			"title" : "INDUSTRIAL SYATEM",
+			"text1" : "An efficient industrial environment keeping the aspects process requirement along with human comfort is a challenging. Which is outcome as an under designed and over designed system to overcome process requirement. In both case system need to compromise either any one of them, always human comfort is compensated. Overall productivity is reduced.Pharmaceutical, food and textile industry need a specific temperature and humidity control, for such industry maintaining human comfort is most challenging which results in faulty HVAC equipment and inefficient system."
+		},
+
+		{
+			"order" : ["text1"],
+			"text1" : "CFD analysis can evaluate the air distribution pattern specially concerned zone and meet the process requirement along efficiently with human comfort criteria."
+		},
+
+		{
+			"order" : ["text1"],
+			"text1" : "An example of CFD analysis for the industrial ventilation system, Proper air distribution, induced and more ACPH design at specific zone "
+		},
+
+		{
+			"order" : ["text1"],
+			"text1" : "Temperature around 24 deg c. – RH about 55% "
+		},
+
+		{
+			"order" : ["image", "imgTitle"],
+			"imgTitle" : "Industrial Building with 160m x240 x11m ",
+			"image" : "hvacServices/services/building.jpg"
+		},
+
+		{
+			"order" : ["image"],
+			"image" : "hvacServices/services/building2.jpg"
+		}
+	]
+}

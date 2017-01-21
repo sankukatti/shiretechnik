@@ -1,0 +1,29 @@
+{
+	"order" : ["title"],
+	"class" : "automobile",
+	"title" : "AUTOMOBILE",
+	"text" : "",
+	"contact" : "For technical details, please",
+	"sub_sections" : [
+		{
+			"order" : ["subtitle","list"],
+			"subtitle" : "Climate Control System",
+			"list" : [
+				"Design HVAC system able to provide thermal comfort to passengers over a wide range of driving and ambient conditions",
+				"Deliver appropriate cabin airflow for clearing windshield and windows as required by safety regulations",
+				"Optimize performance of HVAC components"
+			]
+		},
+		{
+			"order" : ["subtitle","list"],
+			"subtitle" : "Electronics",
+			"list" : [
+				"Design components capable of sustaining harsh operating environments",
+				"Proper thermal management is crucial for reliability and durability",
+				"Accelerated failure mechanism in materials",
+				"Packaging constraints",
+				"Variety of products targeted for electronics, from full-feature applications to highly application-focused and automated vertical tools "
+			]
+		}
+	]
+}
