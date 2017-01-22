@@ -2,7 +2,7 @@
 	"order" : ["title"],
 	"class" : "mechDesign",
 	"title" : "Mechanical Design Consulting Services",
-	"text" : "SHIRETEHNIK provides top class mechanical design services to our clients. We deliver a high quality, cost effective engineering design service that will quickly increase your design capacity and resources. We provide a full mechanical design service from concept to detail drawings for your projects and applications.",
+	"text" : "Shirethechnik provides top class mechanical design services to our clients. We deliver a high quality, cost effective engineering design service that will quickly increase your design capacity and resources. We provide a full mechanical design service from concept to detail drawings for your projects and applications.",
 	"contact" : "To discuss your mechanical design requirements, please ",
 	"sub_sections" : [
 		{
@@ -15,7 +15,7 @@
 		},
 		{
 			"order" : ["subtitle", "list"],
-			"subtitle" : "SHIRETECHNIK offers the Mechanical design services for the following applications and industry sectors:",
+			"subtitle" : "Shirethechnik offers the Mechanical design services for the following applications and industry sectors:",
 			"list" : [
 				"Aerospace",
 				"Automotive",
@@ -26,7 +26,7 @@
 		},
 		{
 			"order" : ["subtitle", "list"],
-			"subtitle" : "Benefits with SHIRETECHNIK",
+			"subtitle" : "Benefits with Shirethechnik",
 			"list" : [
 				"State-of- the-art 3D modelling tools",
 				"Automotive",

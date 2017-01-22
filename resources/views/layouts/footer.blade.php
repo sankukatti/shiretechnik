@@ -6,7 +6,7 @@
 					<!-- <strong class="">Meet us</strong> -->
 					<div class="social-images-block">
 						
-						<a href=""><img src="/images/socialIcons/facebook.png"></a>
+						<!-- <a href=""><img src="/images/socialIcons/facebook.png"></a> -->
 						<a href=""><img src="/images/socialIcons/google.png"></a>
 						<a href=""><img src="/images/socialIcons/linkedin.png"></a>
 						<!-- <a href=""><img src="/images/socialIcons/twitter.png"></a> -->
@@ -16,7 +16,7 @@
 
 			<div class="col-sm-12">
 				<p>
-                    Copyright © 2017 Shirethechnik Pvt Ltd
+                    Copyright © 2017 Shirethechnik solutions Pvt Ltd
 				</p>
 			</div>
 			

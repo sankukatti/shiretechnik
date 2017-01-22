@@ -11,22 +11,25 @@
 				<strong class="">Address</strong>
 				<div class="address">	
 					
-					<p>No.8, Muthu Garden 2nd Street,</p>
-					<p>Sivan Koil Street,</p>
-					<p>Kodambakkam,</p>
-					<p>Chennai 600 024.</p>
-					<p>Tamilnadu.</p>
-					<p>Ph: 080-41149803</p>
-				</div>	
-				<hr/>
-				<div class="address">	
-					
 					<p>#245, Shivakunj, 1st main, 3rd cross,</p>
 					<p>K.E.B layout,</p>
 					<p>Sanjaynagar</p>
 					<p>Bangalore 560 094,</p>
 					<p>Karnataka.</p>
+					<p>Email: info@shiretechnik.com</p>
 					<p>Ph: 080-41149803</p>
+				</div>	
+
+				<hr/>
+				<div class="address">	
+					
+					<p>No.8, Muthu Garden 2nd Street,</p>
+					<p>Sivan Koil Street,</p>
+					<p>Kodambakkam,</p>
+					<p>Chennai 600 024.</p>
+					<p>Tamilnadu.</p>
+					<p>Email: info@shiretechnik.com</p>
+					<p>Ph: +91-9600117100</p>
 				</div>	
  
 			</div>
@@ -71,7 +74,7 @@
 				<strong class="">Meet us</strong>
 				<div class="social-images-block">
 					
-					<a href=""><img src="/images/socialIcons/facebook.png"></a>
+					<!-- <a href=""><img src="/images/socialIcons/facebook.png"></a> -->
 					<a href=""><img src="/images/socialIcons/google.png"></a>
 					<a href=""><img src="/images/socialIcons/linkedin.png"></a>
 					<!-- <a href=""><img src="/images/socialIcons/twitter.png"></a> -->

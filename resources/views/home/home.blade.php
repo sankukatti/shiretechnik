@@ -82,7 +82,7 @@
 					
 					<div class="col-sm-6">
 						<p class="headding blue bold">
-							Why <span class="capital">shire technik</span>?
+							Why <span class="">Shiretechnik</span>?
 						</p>	
 
 						<div class="image-div">
@@ -93,14 +93,14 @@
 							<li>
 								<p class="justify">
 									<strong class="blue headding">Trusted Partner: </strong>
-									<span>SHIRETECHNIK aligns with clients’ goals, and helps them to get insight to improve their product efficiency and reliability.  As a trusted partner, we shoulder our clients to achieve on the best designing and engineering of their products, not on simulation software.</span>
+									<span>Shiretechnik aligns with clients’ goals, and helps them to get insight to improve their product efficiency and reliability.  As a trusted partner, we shoulder our clients to achieve on the best designing and engineering of their products, not on simulation software.</span>
 								</p>
 							</li>
 
 							<li>
 								<p class="justify">
 									<strong class="blue headding">Experienced </strong>
-									<span>SHIRETECHNIK’s workforce is highly experienced and talented with a wide range of industry backgrounds. Our core team is rich in experience of about two decades on engineering industries, and has outstanding capabilities on development CFD code, thermal product development and first time right methodologies. </span>
+									<span>Shiretechnik’s workforce is highly experienced and talented with a wide range of industry backgrounds. Our core team is rich in experience of about two decades on engineering industries, and has outstanding capabilities on development CFD code, thermal product development and first time right methodologies. </span>
 								</p>
 							</li>
 
@@ -129,7 +129,7 @@
 
 					<div class="col-sm-6">
 						<p class="headding blue bold">
-							Why <span class="capital">cfd</span> with <span class="capital">shire technik</span>?
+							Why <span class="capital">cfd</span> with <span class="">Shiretechnik</span>?
 						</p>	
 
 						<div class="video-div">
