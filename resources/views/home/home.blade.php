@@ -86,7 +86,7 @@
 						</p>	
 
 						<div class="image-div">
-							<img src="images/tank-levels-infrared.jpg">
+							<img src="images/home/image1.png">
 						</div>
 
 						<ul class="list">
@@ -114,7 +114,7 @@
 							<li>
 								<p class="justify">
 									<strong class="blue headding">Flexible </strong>
-									<span>SHIRETECHNIK is extremely flexible and efficient. We have worked on a large range of designs and have the skills to help you achieve your requirements. We can help you with all your simulation needs.</span>
+									<span>Shiretechnik is extremely flexible and efficient. We have worked on a large range of designs and have the skills to help you achieve your requirements. We can help you with all your simulation needs.</span>
 								</p>
 							</li>
 
@@ -133,10 +133,19 @@
 						</p>	
 
 						<div class="video-div">
-							<video autoplay loop>
-								<source src="videos/TotalSim.mp4" type="video/mp4" />
+							<!-- <video autoplay loop>
+								<source src="https://www.youtube.com/embed/cSsbcuZvO1I" type="video/youtube" />
 								Your browser does not support the video tag.
-							</video>
+							</video> -->
+							<iframe type="text/html" 
+							    src="http://www.youtube.com/embed/cSsbcuZvO1I?autoplay=1&loop=1&playlist=cSsbcuZvO1I"
+							    frameborder="0">
+							</iframe>
+							<!-- <video controls="controls" 
+       class="video-stream" 
+       x-webkit-airplay="allow" 
+       data-youtube-id="cSsbcuZvO1I" 
+       src="https://www.youtube.com"></video> -->
 						</div>
 
 						<ul class="list">

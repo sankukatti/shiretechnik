@@ -1,5 +1,5 @@
 {
-	"order" : ["title"],
+	"order" : ["title", "images"],
 	"class" : "hvacServices",
 	"title" : "HAVC SERVICE",
 	"text" : "",
@@ -81,8 +81,14 @@
 		},
 
 		{
-			"order" : ["title", "text1"],
+			"order" : ["title", "text1", "image"],
 			"title" : "CARPARK AND TUNNEL VENTILATION",
+			"text1" : "",
+			"image" : "hvacServices/services/six.jpg"
+		},
+
+		{
+			"order" : ["text1"],
 			"text1" : "CO (Carbon monoxide control is essential design requirement l in covered car parks. Under designed ventilation system, parking facility turns out IAQ problems. Exposure of CO leads various type of health issues even death in extreme case. So it is a necessary design need of proper ventilated system,  CFD analysis will be ensuring that the ventilation system meets the NBC, ASHRAE and WHO guidelines for CO exposure and contaminant control. The working of staircase pressurization, zone modelling with or without using directional jet fan for CO removal can also be analysed. The acceptance contaminant level criterion for parking garages is recommended in ASHRAE 2007 Handbook."
 		},
 

@@ -21,8 +21,10 @@
 				<div class="col-sm-12">
 					<img class="image" src="/images/turboSoftware/img2.png">
 					<p class="block text justify">
-						We are authorised partner for CFD Support 
-						<a href="http://www.cfdsupport.com" target="_blank">Link</a>
+						We are authorised partner for 
+						<a href="http://www.cfdsupport.com" target="_blank">
+							CFD Support.
+						</a>
 					</p>
 				</div>
 			</div>

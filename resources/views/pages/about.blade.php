@@ -50,6 +50,12 @@
 					<p class="bold blue">
 						Debasis - Lead HVAC design
 					</p>
+				</div>
+				<div class="col-sm-3" data-toggle="modal" data-target="#moumita">
+					<img class="team-image" src="images/about/moumita.jpg"/>
+					<p class="bold blue">
+						Moumita- Design Consultant
+					</p>
 				</div>			
 			</div>
 			<!-- <div class="row">
@@ -185,17 +191,26 @@
 		</div>
 	</div>
 
-	<div id="myModal" class="modal fade" role="dialog">
+	<div id="moumita" class="modal fade" role="dialog">
 		<div class="modal-dialog">
 
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Modal Header</h4>
+					<h4 class="modal-title">Moumita- Design Consultant</h4>
 				</div>
 				<div class="modal-body">
-					<p>Some text in the modal.</p>
+					<p class="block justify">
+						Moumita has eight years of professional experience on product development in automotive and petroleum industry. She holds a Master’s degrees in Chemical Engineering from Indian Institute of Technology (IIT), Chennai. She has deep expertise in CFD simulation tools, worked in thermal modeling of electro-chemical energy storage devices, computational fluid flow and heat analysis in Evaporator & Distillation Columns using COMSOL software.
+					</p>
+					<p class="block justify">
+						Other area of works are 
+						Heat Transfer Analysis of Heat Ex-changers,
+						Optimization of natural and forced convection in storage tanks,
+						MATLAB and Simulink modelling of battery and Solar PV modules,
+						and She is fond of writing, design arts work, her few write up can be explored at <a href="http://www.pinkjooz.com/index.php/author/mou_nandi/">pinkjooz </a>
+					</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
