@@ -16,7 +16,7 @@
 
 			<div class="col-sm-12">
 				<p>
-                    Copyright © 2014 SANDEBTECH
+                    Copyright © 2017 Shirethechnik Pvt Ltd
 				</p>
 			</div>
 			
