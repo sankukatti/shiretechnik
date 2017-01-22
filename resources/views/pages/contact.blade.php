@@ -9,8 +9,10 @@
 
 			<div class="col-sm-3">
 				<strong class="">Address</strong>
+
+
 				<div class="address">	
-					
+					<strong class="">Bangalore office</strong>	
 					<p>#245, Shivakunj, 1st main, 3rd cross,</p>
 					<p>K.E.B layout,</p>
 					<p>Sanjaynagar</p>
@@ -22,7 +24,7 @@
 
 				<hr/>
 				<div class="address">	
-					
+					<strong class="">Chennai office</strong>	
 					<p>No.8, Muthu Garden 2nd Street,</p>
 					<p>Sivan Koil Street,</p>
 					<p>Kodambakkam,</p>
