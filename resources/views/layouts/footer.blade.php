@@ -16,7 +16,7 @@
 
 			<div class="col-sm-12">
 				<p>
-                    Copyright © 2017 Shirethechnik Solutions Pvt. Ltd.
+                    Copyright © 2017 Shiretechnik Solutions Pvt. Ltd.
 				</p>
 			</div>
 			

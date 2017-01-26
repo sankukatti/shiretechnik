@@ -12,7 +12,7 @@
 
 	"two" : {
 		"title" : "Shiretechnik",
-		"desc1" : "Your trusted engineering solution partner committed to achieving the design requirement in terms of product efficiency, reliability and performance by using our technical know-how",
+		"desc1" : "Your trusted engineering solution partner committed to achieving your design needs in terms of product efficiency, reliability and performance by using our technical know-how",
 		"desc2" : "",
 		"link" 	: "/"
 	},
@@ -22,7 +22,7 @@
 		"desc1" : "",
 		"desc2" : "",
 		"list" : [
-			"Concept level analysis", "Layout analysis", "Component detail level analysis", 
+			"Concept level analysis", "Board level analysis", "Component level analysis", 
 			"System level analysis" ],
 		"link" 	: "/products/elecCooling"
 	},

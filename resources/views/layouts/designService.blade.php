@@ -1,6 +1,6 @@
 <li class="dropdown" >
 	<a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-		Design Service
+		Design Services
 		<span class="caret"></span>
 	</a>
 	<ul class="dropdown-menu">

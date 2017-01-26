@@ -6,12 +6,12 @@
 		},
 	"class" : "elecCooling",
 	"title" : "Electronics Cooling",
-	"text" : "Shirethechnik provides a complete range of thermal consulting services for electronics cooling from concept to product realization.  Our thermal management solutions for electronic systems optimize the design and maximize performance with reliability. Our engineers are well-skilled with using all leading industry thermal simulation tools and are highly experienced in a variety of industrial applications, which helps to solve all your thermal analysis problems. We provide our clients with the right engineering approach to determine the best solutions given their real-world engineering requirements and constraints. We are committed to providing thermal management expertise to the electronics industry. We strive to provide our customers with complete solutions, tailored to meet their technical requirements, so that their business goals will be achieved in a timely and cost-effective manner.",
+	"text" : "Shiretechnik provides a complete range of thermal consulting services for electronics cooling from concept to product realization.  Our thermal management solutions for electronic systems optimize the design and maximize performance with higher reliability. Our engineers are well-skilled with using all leading industry thermal simulation tools and are highly experienced in a variety of industrial applications, which helps to solve all your thermal problems. We provide our clients with the right engineering approach to determine the best solutions given their real-world engineering requirements and constraints. We are committed to providing thermal management expertise to the electronics industry. We strive to provide our customers with complete solutions, tailored to meet their technical requirements, so that their business goals will be achieved in a timely and cost-effective manner.",
 	"contact" : "To discuss your electronic cooling design requirements ",
 	"sub_sections" : [
 		{
 			"order" : ["simpleTitle","imgList"],
-			"simpleTitle" : "Shirethechnik offers the Electronic cooling services for the following applications and industry sectors:",
+			"simpleTitle" : "Shiretechnik offers the Electronic cooling services for the following applications and industry sectors:",
 			"list" :[
 				{
 					"img" :"elecCooling/images/telecom.png",
@@ -41,7 +41,7 @@
 		},
 		{
 			"order" : ["title", "list"],
-			"title" : "Benefits with Shirethechnik:",
+			"title" : "Benefits with Shiretechnik:",
 			"list" : [ 
 				"Improved Product Performance", 
 				"Optimum Cooling Design Solution", 
@@ -52,7 +52,7 @@
 		{
 			"order" : ["title", "text1"],
 			"title" : "Expert in Electronic Cooling Innovation",
-			"text1" 	: "Shirethechnik is committed to finding new ways to meeting your cooling requirements while lowering energy consumption. Our analysts, customer specialists and R & D team constantly work to challenge the status quo and innovate our solutions to deliver even greater value."
+			"text1" 	: "Shiretechnik is committed to finding new ways to meeting your cooling requirements while lowering energy consumption. Our analysts, customer specialists and R & D team constantly work to challenge the status quo and innovate our solutions to deliver even greater value."
 		}
 	]
 }

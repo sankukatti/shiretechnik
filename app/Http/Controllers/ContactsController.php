@@ -21,6 +21,7 @@ class ContactsController extends Controller {
 		$token = $request->input('token');
 		Log::info($message);
 		$this->emailService->sendMail(['name' => $name, 'email' => $email, 'txt' => $message], "info@shiretechnik.com", explode(',',env('NEW_CONTACT_MAIL_TO')), "New Contact", 'email.newContact');
+		$request->session()->flash('alert-success', 'Thank you. Will get in touch');
 		return redirect('/');
 	}
 

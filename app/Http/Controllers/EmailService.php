@@ -31,14 +31,17 @@ class EmailService
         return true;
     }
 
-    public function sendMail($params, $from, $to, $subject, $template) {
+    public function sendMail($params, $from, $to, $subject, $template, $attachment = null ) {
         try {
-            Mail::send($template, $params, function ($msg) use ($from, $to, $subject) {
+            Mail::send($template, $params, function ($msg) use ($from, $to, $subject, $attachment) {
                 if ($from) {
                     $msg->from([$from]);
                 }
                 $msg->to($to);
                 $msg->subject($subject);
+                if( $attachment != null ) {
+                    $msg->attach($attachment['path'], ['as' => $attachment['name'], 'mime' => $attachment['mime']]);
+                }
             });
         } catch (\Exception $e) {
             throw $e;

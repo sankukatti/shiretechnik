@@ -127,9 +127,6 @@ class PagesController extends Controller
 		return $files;
 	}
 
-	function getCareers( Request $request ) {
-		return view( 'pages.careers' );
-	}
 }
 
 ?>

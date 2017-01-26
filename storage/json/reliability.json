@@ -2,7 +2,7 @@
 	"order" : ["title"],
 	"class" : "reliability",
 	"title" : "Reliability Consulting Services",
-	"text" : "Shirethechnik helps its clients to build products of high reliability and to deliver world-class products and services.",
+	"text" : "Shiretechnik helps its clients to build products of high reliability and to deliver world-class products and services.",
 	"contact" : "To discuss your reliability analysis requirements, please ",
 	"sub_sections" : [
 		{
@@ -15,7 +15,7 @@
 		},
 		{
 			"order" : ["subtitle", "list"],
-			"subtitle" : "Shirethechnik offers the following reliability services:",
+			"subtitle" : "Shiretechnik offers the following reliability services:",
 			"list" : [
 				"Reliability Prediction",
 				"Failure Mode Effects and Criticality Analysis",

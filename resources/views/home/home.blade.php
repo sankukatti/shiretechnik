@@ -92,36 +92,36 @@
 						<ul class="list">
 							<li>
 								<p class="justify">
-									<strong class="blue headding">Trusted Partner: </strong>
-									<span>Shiretechnik aligns with clients’ goals, and helps them to get insight to improve their product efficiency and reliability.  As a trusted partner, we shoulder our clients to achieve on the best designing and engineering of their products, not on simulation software.</span>
+									<strong class="blue headding">Trusted Partner </strong>
+									<span>Shiretechnik aligns with clients’ goals, and helps them to get insight to improve their product efficiency and reliability.  As a trusted partner, on and above the simulation software services, we shoulder our clients to achieve on the best designing and engineering of their products.</span>
 								</p>
 							</li>
 
 							<li>
 								<p class="justify">
 									<strong class="blue headding">Experienced </strong>
-									<span>Shiretechnik’s workforce is highly experienced and talented with a wide range of industry backgrounds. Our core team is rich in experience of about two decades on engineering industries, and has outstanding capabilities on development CFD code, thermal product development and first time right methodologies. </span>
+									<span>Shiretechnik’s workforce is highly experienced and talented with a wide range of industry backgrounds. Our core team is rich in experience of about two decades on engineering industries, and has outstanding capabilities on development of CFD codes and thermal simulation products, and has proven track records in employing the first time right methodologies. </span>
 								</p>
 							</li>
 
 							<li>
 								<p class="justify">
 									<strong class="blue headding">Innovation </strong>
-									<span>Innovation is a part of our vision! Our innovative ideas and solutions helped our clients to accomplish their challenging requirements, and to develop the best design in the world market.</span>
+									<span>Innovation is a part of our vision! Our innovative ideas and solutions helped our clients to accomplish their challenging design requirements, and to develop the best design in the world market.</span>
 								</p>
 							</li>
 
 							<li>
 								<p class="justify">
 									<strong class="blue headding">Flexible </strong>
-									<span>Shiretechnik is extremely flexible and efficient. We have worked on a large range of designs and have the skills to help you achieve your requirements. We can help you with all your simulation needs.</span>
+									<span>Shiretechnik is highly flexible and efficient. We have worked on a large range of designs and have the skills to help you achieve your unique requirements. We can help you with all your simulation needs.</span>
 								</p>
 							</li>
 
 							<li>
 								<p class="justify">
 									<strong class="blue headding">Value Addition </strong>
-									<span>We provide great care to your projects at no additional cost. You receive highly professional and trusted advice, support and expertise.</span>
+									<span>You get our great care and attention to your projects at no additional cost. You receive highly professional and trusted advice, support and expertise.</span>
 								</p>
 							</li>
 						</ul>
@@ -133,19 +133,14 @@
 						</p>	
 
 						<div class="video-div">
-							<!-- <video autoplay loop>
-								<source src="https://www.youtube.com/embed/cSsbcuZvO1I" type="video/youtube" />
+							<video autoplay loop>
+								<source src="/videos/TotalSim.mp4" type="video/mp4" />
 								Your browser does not support the video tag.
-							</video> -->
-							<iframe type="text/html" 
+							</video>
+							<!-- <iframe type="text/html" 
 							    src="http://www.youtube.com/embed/cSsbcuZvO1I?autoplay=1&loop=1&playlist=cSsbcuZvO1I"
 							    frameborder="0">
-							</iframe>
-							<!-- <video controls="controls" 
-       class="video-stream" 
-       x-webkit-airplay="allow" 
-       data-youtube-id="cSsbcuZvO1I" 
-       src="https://www.youtube.com"></video> -->
+							</iframe> -->
 						</div>
 
 						<ul class="list">

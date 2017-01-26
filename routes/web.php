@@ -30,7 +30,8 @@ Route::get( '/about', 'PagesController@getAbout' );
 Route::get( '/contact', 'ContactsController@getContact' );
 Route::post( '/contact', 'ContactsController@sendContact' );
 
-Route::get( '/careers', 'PagesController@getCareers');
+Route::get( '/careers', 'CareersController@getCareers');
+Route::post( '/careers', 'CareersController@addProfile');
 
 Route::get( '/forum', 'ForumController@getBlogs');
 Route::get( '/forum/{blog_id}', 'ForumController@getBlog');
