@@ -1,6 +1,13 @@
 .hvacProducts {
+	.subSectionImage {
+		width: 150px;
+	}
+
 	video {
 		display: block;
-		height: 200px;
+		height: 250px;
+		margin: auto;
+		background-color: #ccc;
+		border: 1px solid #ccc;
 	}
 }

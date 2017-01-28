@@ -7,7 +7,7 @@
 	"sub_sections" : [
 		{
 			"order" : ["subtitle", "text1", "list"],
-			"subtitle" : "ELECTRONICS",
+			"subtitle" : "Electronics",
 			"text1" : "Avionics Cooling",
 			"list" : [
 				"Conjugate heat transfer",
@@ -19,7 +19,7 @@
 		},
 		{
 			"order" : ["subtitle", "text1", "list"],
-			"subtitle" : "CABIN and COCKPIT",
+			"subtitle" : "Cabin and Cockpit",
 			"text1" : "Air conditioning",
 			"list" : [
 				"Natural, mixed and forced convection",

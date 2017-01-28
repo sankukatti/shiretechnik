@@ -50,9 +50,8 @@
 		{
 			"order" : ["subtitle","text1", "list"],
 			"subtitle" : "Fire and Smoke Modeling",
-			"text1" : "Regulations and safety concerns require efficient ventilation and detection systems; software from ANSYS provides cost effective help for:",
+			"text1" : "Regulations and safety concerns require efficient ventilation and detection systems; Understanding the spread of smoke and heat.",
 			"list" : [
-					"Understanding the spread of smoke and heat",
 					"Designing efficient equipment for fire suppression",
 					"Predicting the distribution of suppression agents",
 					"Studying their interactions with the fire and smoke",
@@ -89,18 +88,18 @@
 
 		{
 			"order" : ["text1"],
-			"text1" : "CO (Carbon monoxide control is essential design requirement l in covered car parks. Under designed ventilation system, parking facility turns out IAQ problems. Exposure of CO leads various type of health issues even death in extreme case. So it is a necessary design need of proper ventilated system,  CFD analysis will be ensuring that the ventilation system meets the NBC, ASHRAE and WHO guidelines for CO exposure and contaminant control. The working of staircase pressurization, zone modelling with or without using directional jet fan for CO removal can also be analysed. The acceptance contaminant level criterion for parking garages is recommended in ASHRAE 2007 Handbook."
+			"text1" : "CO (Carbon Monoxide) control is a primary and essential design requirement for covered car parks. Any improper ventilation system design could result in poor IAQ parameters. Exposure of CO causes several health issues even it might lead to death in extreme case. Hence it necessitates this key requirement to be studied and thoroughly analysed for properly ventilated systems. meet the properly ventilated systems. CFD analysis techniques ensure that the ventilation system meets the international standard guideline viz., NBC, ASHRAE and WHO for CO exposure and contaminant control. Shiretechnik has deep expertise in staircase pressurization, car park zone modeling with or without employing bi-directional jet fan for CO removal. The acceptance contaminant level criteria for parking systems are achieved in accordance with ASHRAE 2007 Handbook (ASHRAE Standard 55-2004 (thermal comfort in a space) and Standard 62.1-2007(ventilation for acceptable indoor air quality (IAQ)) "
 		},
 
 		{
 			"order" : ["text1"],
-			"text1" : "Service offered : ventilation design, axial fan sizing and estimation jet fan number, optimization of location ."
+			"text1" : "Services offered: Ventilation design, Axial fan sizing, estimation of jet fan number, optimization of fan location and smoke detector location  (Pollution mode and fire mode)."
 		},
 
 		{
 			"order" : ["title", "text1"],
 			"title" : "Industrial System",
-			"text1" : "Designing of an efficient industrial environment is challenging in terms of balancing the process requirement and human comfort criteria. It is always obvious that system is either under designed or over-designed to meet the process requirements. The system design always compromises with human comfort. Pharmaceutical, food and textile industries are required to maintain specific temperature and humidity control. CFD analysis can be used to evaluate the proper air distribution pattern, especially for the concerned zone to meet the process requirement without compromising human comfort criteria. Following parameters are assesed for proper design : "
+			"text1" : "Designing of an efficient industrial environment is challenging in terms of balancing the process requirement and human comfort criteria. It is always obvious that system is either under designed or over-designed to meet the process requirements. The system design always compromises with human comfort. Pharmaceutical, food and textile industries are required to maintain specific temperature and humidity control. CFD analysis can be used to evaluate the proper air distribution pattern, especially for the concerned zone to meet the process requirement without compromising human comfort criteria. Following parameters are assesed for proper design "
 		},
 
 		{
@@ -120,17 +119,17 @@
 
 		{
 			"order" : ["text1"],
-			"text1" : "An example of CFD analysis for the industrial ventilation system, Proper air distribution, induced and more ACPH design at specific zone "
+			"text1" : "An example of CFD analysis for the industrial ventilation system, Proper air distribution, induced and more ACPH design at specific zone. Temperature around 24 deg c. – RH about 55%  "
 		},
 
 		{
 			"order" : ["text1"],
-			"text1" : "Temperature around 24 deg c. – RH about 55% "
+			"text1" : ""
 		},
 
 		{
 			"order" : ["image", "imgTitle"],
-			"imgTitle" : "Industrial Building with 160m x240 x11m ",
+			"imgTitle" : "Industrial Building",
 			"image" : "hvacServices/services/building.jpg"
 		},
 
