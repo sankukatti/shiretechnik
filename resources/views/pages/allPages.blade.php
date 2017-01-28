@@ -220,6 +220,12 @@
 						<a href="/contact">Contact us</a>
 					</p>
 				@endif
+
+				@if ( isset( $json['by'] ) )
+					<p class="block text justify contactUs">
+						By : <span class="blue">{{$json['by']}}</span>
+					</p>
+				@endif
 			</div>
 		</section>
 	</div>

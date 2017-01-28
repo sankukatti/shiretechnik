@@ -19,6 +19,9 @@
 						<p class="block text justify">
 							{{$json['blogs'][$i]['text']}}
 						</p>
+						<p class="block text justify">
+							By : <span class="blue">{{$json['blogs'][$i]['by']}}</span>
+						</p>
 					</div>
 					
 				@endfor
