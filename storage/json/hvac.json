@@ -8,7 +8,7 @@
 		{
 			"order" : [ "text1", "image"],
 			"text1" : "",
-			"image" : "hvac/subImages/one.jpg"
+			"image" : "hvac/subImages/one.png"
 		},
 		{
 			"order" : ["title", "list"],
