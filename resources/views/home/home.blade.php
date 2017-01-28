@@ -129,7 +129,7 @@
 
 					<div class="col-sm-6">
 						<p class="headding blue bold">
-							Why <span class="capital">cfd</span> with <span class="">Shiretechnik</span>?
+							Why <span class="">Engineering Solutions</span> with <span class="">Shiretechnik</span>?
 							<!-- <a href="http://www.wildeboer.de/en/company-details/" class="brand-link">
 									We are authorised solution partner for Wildeboer Bauteile GmbH
 							</a>
