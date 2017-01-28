@@ -10,7 +10,7 @@
 			"image" : "hvacProducts/products/wildeboer.png",
 			"link" : {
 				"link" : "http://www.wildeboer.de/en/company-details/",
-				"text" : "We are authorised partner for Wildeboer Bauteile GmbH"
+				"text" : "We are authorised partner of Wildeboer Bauteile GmbH"
 			}
 		},
 		{
@@ -101,6 +101,10 @@
 							"Environmental Product Declaration according to ISO 14025 and EN 15804"
 				]
 			}	
+		},
+		{
+			"order" : ["video"],
+			"video" : "/videos/flow_limiter.mp4"
 		},
 		{
 			"order" : ["subtitle", "product"],
