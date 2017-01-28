@@ -50,8 +50,9 @@
 		{
 			"order" : ["subtitle","text1", "list"],
 			"subtitle" : "Fire and Smoke Modeling",
-			"text1" : "Regulations and safety concerns require efficient ventilation and detection systems; Understanding the spread of smoke and heat.",
+			"text1" : "Regulations and safety concerns require efficient ventilation and detection systems.",
 			"list" : [
+					"Understanding the spread of smoke and heat",
 					"Designing efficient equipment for fire suppression",
 					"Predicting the distribution of suppression agents",
 					"Studying their interactions with the fire and smoke",
