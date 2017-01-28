@@ -46,7 +46,7 @@
 					</p>
 				</div>	
 				<div class="col-sm-3" data-toggle="modal" data-target="#sandeep">
-					<img class="team-image" src="images/about/sandeep.jpeg"/>
+					<img class="team-image" src="images/about/sandeep.jpg"/>
 					<p class="bold blue" >
 						Sandeep Nandi - Lead Thermal &amp; Mechanical
 					</p>
