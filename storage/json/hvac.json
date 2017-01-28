@@ -9,7 +9,7 @@
 			"order" : [ "text1", "image", "imgTitle"],
 			"text1" : "",
 			"image" : "hvac/subImages/one.png",
-			"imgTitle" : "Data center Temperature Profile."
+			"imgTitle" : "Datacentre Temperature Profile."
 		},
 		{
 			"order" : ["title", "list"],
