@@ -6,9 +6,10 @@
 	"contact" : "For CFD consulting services HVAC services, please ",
 	"sub_sections" : [
 		{
-			"order" : [ "text1", "image"],
+			"order" : [ "text1", "image", "imgTitle"],
 			"text1" : "",
-			"image" : "hvac/subImages/one.png"
+			"image" : "hvac/subImages/one.png",
+			"imgTitle" : "Data center Temperature Profile."
 		},
 		{
 			"order" : ["title", "list"],
