@@ -38,7 +38,9 @@ class CareersController extends Controller {
 	}
 
 	function getCareers( Request $request ) {
-		return view( 'pages.careers' );
+		$path 				= storage_path() . "/json/careers.json";
+		$json 				= json_decode(file_get_contents($path), true); 
+		return view( 'pages.careers', [ 'json' => $json ] );
 	}
 }
 

@@ -22,35 +22,51 @@
 					<p class="block blue">
 						Current Opportunities at Shiretechnik: 
 					</p>		
+					@if( count($json['openings']) <= 0) 
+						<p class="block blue">
+							(No openings available. Please watch this space.)
+						</p>
+					@else 
+						
 
-					<p class="block blue">
-						(No openings available. Please watch this space.)
-					</p>
+						<ol class="block list">
+						@for ($i = 0; $i < count($json['openings']); $i++)
+							<li class="text">
+								{{$json['openings'][$i]['designation']}}
+							</li>
+						@endfor
+						</ol>
+					@endif
 				</div>
-				<div class="col-sm-4 career-form">
-					<form role="form" method="post" enctype="multipart/form-data" action="">
-						<div class="form-group">
+
+
+
+				@if( count($json['openings']) > 0) 
+					<div class="col-sm-4 career-form">
+						<form role="form" method="post" enctype="multipart/form-data" action="">
 							<div class="form-group">
-								<label class="sr-only" for="email">Full name</label>
-		    					<input type="text" name="name" placeholder="Full name" class="form-control" id="email" required>
+								<div class="form-group">
+									<label class="sr-only" for="email">Full name</label>
+			    					<input type="text" name="name" placeholder="Full name" class="form-control" id="email" required>
+								</div>
+
+								<div class="form-group">
+									<label class="sr-only" for="email">Email address:</label>
+			    					<input type="email" name="email" placeholder="Email" class="form-control" id="email" required>
+								</div>
+
+								<div class="form-group">
+									<label class="" for="email">Attach your CV</label>
+			    					<input type="file" name="resume" class="form-control" value="Attach your CV" accept=".doc,.pdf,.docx,.txt" required>
+								</div>
+
+								<input type="hidden" name="_token" value="{{ csrf_token() }}">
+								<button type="submit" class="btn btn-default background-blue white">Submit</button>
+
 							</div>
-
-							<div class="form-group">
-								<label class="sr-only" for="email">Email address:</label>
-		    					<input type="email" name="email" placeholder="Email" class="form-control" id="email" required>
-							</div>
-
-							<div class="form-group">
-								<label class="" for="email">Attach your CV</label>
-		    					<input type="file" name="resume" class="form-control" value="Attach your CV" accept=".doc,.pdf,.docx,.txt" required>
-							</div>
-
-							<input type="hidden" name="_token" value="{{ csrf_token() }}">
-							<button type="submit" class="btn btn-default background-blue white">Submit</button>
-
-						</div>
-					</form>	
-				</div>
+						</form>	
+					</div>
+				@endif
 					
 			</div>
 		</div>
