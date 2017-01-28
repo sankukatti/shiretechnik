@@ -4,27 +4,12 @@
 		{
 			"order" : ["title"],
 			"class" : "blogs",
-			"urlKey" : "wondy",
+			"urlKey" : "improved_thermal_modeling",
 			"by" : "Shankar Satchidanandan",
 			"title" : "Improved thermal modeling techniques for bond wires in CFD",
 			"text" : "The paper investigates the accuracy and computational efficiency of various thermal modeling approaches for bond-wires in wire bonded packages. It recommends an improved thermal modeling technique for thermal designers that can be implemented in their work. The significance of the thermal impact of bond-wires in IC packages is also demonstrated",
 			"sub_sections" : [
-				{
-					"order" : ["text1"],
-					"text1" : "Would not it be nice if life is full of ease and we could float through the flowery beds, like what we imagine with the word “heaven”?"
-				},
-				{
-					"order" : ["text1"],
-					"text1" : "The hard truth is ….life is full of challenges and we should have the power to ‘challenge the challenges’; the earth is not a playground better it’s a battleground."
-				},
-				{
-					"order" : ["text1"],
-					"text1" : "Here I would just like to say what I feel: writer? Blogger? Journalist? Author? Editor? Experimenter? Creator of video?” Yes that was Wondy- a great friend, a great wife and a great mother of three kids."
-				},
-				{
-					"order" : ["text1"],
-					"text1" : "She wrote: ‘Friendships based on the good are rare, require precise choices, time and awareness, have to overcome many trials and consolidate with time. Friendship is a choice, a deep bond, a source of happiness and also an excellent weapon to face the turning points along the path of life."
-				}
+
 			]
 		}
 	]
