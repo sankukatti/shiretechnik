@@ -1,18 +1,18 @@
 {
 	"order" : ["title", "images"],
 	"class" : "hvacServices",
-	"title" : "HAVC SERVICE",
+	"title" : "HVAC Service",
 	"text" : "",
 	"contact" : "For technical details, please",
 	"sub_sections" : [
 		{
 			"order" : ["title"],
-			"title" : "BUILDING"
+			"title" : "Building"
 		},
 
 		{
 			"order" : ["subtitle"],
-			"subtitle" : "COMFORT VENTILATION"
+			"subtitle" : "Comfort Ventilation"
 		},
 
 		{
@@ -49,7 +49,7 @@
 
 		{
 			"order" : ["subtitle","text1", "list"],
-			"subtitle" : "FIRE AND SMOKE MODELING",
+			"subtitle" : "Fire and Smoke Modeling",
 			"text1" : "Regulations and safety concerns require efficient ventilation and detection systems; software from ANSYS provides cost effective help for:",
 			"list" : [
 					"Understanding the spread of smoke and heat",
@@ -62,7 +62,7 @@
 
 		{
 			"order" : ["subtitle", "list"],
-			"subtitle" : "HVAC EQUIPMENT DESIGN",
+			"subtitle" : "HVAC Equipment Design",
 			"list" : [
 					"Fans – radial and axial",
 					"Heating system design",
@@ -82,7 +82,7 @@
 
 		{
 			"order" : ["title", "text1", "image"],
-			"title" : "CARPARK AND TUNNEL VENTILATION",
+			"title" : "Carpark and Tunnel Ventilation",
 			"text1" : "",
 			"image" : "hvacServices/services/six.jpg"
 		},
@@ -94,18 +94,28 @@
 
 		{
 			"order" : ["text1"],
-			"text1" : "Service: ventilation design, axial fan sizing and estimation jet fan number, optimization of location ."
+			"text1" : "Service offered : ventilation design, axial fan sizing and estimation jet fan number, optimization of location ."
 		},
 
 		{
 			"order" : ["title", "text1"],
-			"title" : "INDUSTRIAL SYATEM",
-			"text1" : "An efficient industrial environment keeping the aspects process requirement along with human comfort is a challenging. Which is outcome as an under designed and over designed system to overcome process requirement. In both case system need to compromise either any one of them, always human comfort is compensated. Overall productivity is reduced.Pharmaceutical, food and textile industry need a specific temperature and humidity control, for such industry maintaining human comfort is most challenging which results in faulty HVAC equipment and inefficient system."
+			"title" : "Industrial System",
+			"text1" : "Designing of an efficient industrial environment is challenging in terms of balancing the process requirement and human comfort criteria. It is always obvious that system is either under designed or over-designed to meet the process requirements. The system design always compromises with human comfort. Pharmaceutical, food and textile industries are required to maintain specific temperature and humidity control. CFD analysis can be used to evaluate the proper air distribution pattern, especially for the concerned zone to meet the process requirement without compromising human comfort criteria. Following parameters are assesed for proper design : "
 		},
 
 		{
-			"order" : ["text1"],
-			"text1" : "CFD analysis can evaluate the air distribution pattern specially concerned zone and meet the process requirement along efficiently with human comfort criteria."
+			"order" : ["text1", "list"],
+			"text1" : "",
+			"list" : [
+				"Predicted Mean Vote (PMV)",
+				"Predicted Percent Dissatisfied (PPD)",
+				"Operative Temperature",
+				"Draft Temperature",
+				"Air Diffusion Performance Index (ADPI)",
+				"Contaminant Removal Effectiveness (CRE)",
+				"Local Air Quality Index (LAQI)",
+				"Flow Angle"
+			]
 		},
 
 		{

@@ -6,6 +6,18 @@
 	"contact" : "For product technical details, please",
 	"sub_sections" : [
 		{
+			"order" : ["image", "link"],
+			"image" : "hvacProducts/products/wildeboer.png",
+			"link" : {
+				"link" : "http://www.wildeboer.de/en/company-details/",
+				"text" : "We are authorised partner for Wildeboer Bauteile GmbH"
+			}
+		},
+		{
+			"order" : ["video"],
+			"video" : "/videos/wildeboer.mp4"
+		},
+		{
 			"order" : ["text1"],
 			"title" : "",
 			"text1" : "Constant Volume Control (CAV) is a mechanical volume flow unit which provide maintenance free operations. CAV replace conventional throttle elements in ventilation systems which are pressure independent product."
@@ -28,7 +40,12 @@
 
 		{
 			"order" : ["subtitle", "product"],
-			"subtitle" : "CAV",
+			"subtitle" : {
+				"link" : {
+					"link" : "http://www.wildeboer.de/uploads/media/user_manual_VK2.pdf",
+					"text" : "CAV"
+				}
+			},
 			"product" : {
 				"image" : "hvacProducts/products/cav.jpg",
 				"list" : [ "Adjustable on site.", 
@@ -44,7 +61,12 @@
 
 		{
 			"order" : ["subtitle", "product"],
-			"subtitle" : "Circular CAV",
+			"subtitle" : {
+				"link" : {
+					"link" : "http://www.wildeboer.de/uploads/media/user_manual_VR1.pdf",
+					"text" : "Circular CAV"
+				}
+			},
 			"product" : {
 				"image" : "hvacProducts/products/circularCav.jpg",
 				"list" : [ "Adjustable on site.", "Outstanding control accuracy.", 
@@ -63,7 +85,12 @@
 
 		{
 			"order" : ["subtitle", "product"],
-			"subtitle" : "Flow control Limiter",
+			"subtitle" : {
+				"link" : {
+					"link" : "http://www.wildeboer.de/en/products/air-distribution/volume-flow-controllers/vrl1-volume-flow-limiter/",
+					"text" : "Flow control Limiter"
+				}
+			},
 			"product" : {
 				"image" : "hvacProducts/products/flowControlLimiter.jpg",
 				"list" : [ "Operates without an auxiliary power supply, for ventilation and air conditioning systems.", 
@@ -75,10 +102,31 @@
 				]
 			}	
 		},
+		{
+			"order" : ["subtitle", "product"],
+			"subtitle" : {
+				"link" : {
+					"link" : "http://www.wildeboer.de/en/products/noise-protection/",
+					"text" : "SB Splitters & SKB Sound Attenuators"
+				}
+			},
+			"product" : {
+				"image" : "hvacProducts/products/splitters.jpg",
+				"list" : [ "Suitable for ventilation systems.", 
+							"Hygiene certificate",
+							"Option: casing leak tightness class C"
+				]
+			}	
+		},
 
 		{
 			"order" : ["subtitle", "product"],
-			"subtitle" : "Grill and Diffuser",
+			"subtitle" : {
+				"link" : {
+					"link" : "http://www.wildeboer.de/en/products/air-distribution/ceiling-diffusers/",
+					"text" : "Grill and Diffuser"
+				}
+			},
 			"product" : {
 				"image" : "hvacProducts/products/grillDiffuser.jpg",
 				"text" : "Shiretechnik is associated with a leading Brand from Germany. Shiretechnik also offer, Swirl diffusers, Grilles, silencers with German Hygiene Standards."

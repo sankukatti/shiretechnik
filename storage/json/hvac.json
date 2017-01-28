@@ -6,6 +6,11 @@
 	"contact" : "For CFD consulting services HVAC services, please ",
 	"sub_sections" : [
 		{
+			"order" : [ "text1", "image"],
+			"text1" : "",
+			"image" : "hvac/subImages/one.jpg"
+		},
+		{
 			"order" : ["title", "list"],
 			"title" : "CFD HVAC - Applications Areas:",
 			"list" : [ "Underground ventilation ducted  and non ducted", "Natural Ventilation", "Induced Ventilation", 

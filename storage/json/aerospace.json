@@ -1,7 +1,7 @@
 {
-	"order" : ["images","title"],
+	"order" : ["title", "images"],
 	"class" : "aerospace",
-	"title" : "AEROSPACE",
+	"title" : "Aerospace",
 	"text" : "",
 	"contact" : "For technical details, please",
 	"sub_sections" : [

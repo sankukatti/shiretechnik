@@ -24,6 +24,8 @@ Route::get( '/products/turboSoftware', 'PagesController@getTurboSoftware' );
 Route::get( '/industries/aerospace', 'PagesController@getAerospace' );
 Route::get( '/industries/automobile', 'PagesController@getAutomibile' );
 Route::get( '/industries/elecCooling', 'PagesController@getElecCooling' );
+Route::get( '/industries/consumerProducts', 'PagesController@getConsumerProducts' );
+Route::get( '/industries/defence', 'PagesController@getDefence' );
 
 Route::get( '/about', 'PagesController@getAbout' );
 

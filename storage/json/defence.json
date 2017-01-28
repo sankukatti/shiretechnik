@@ -1,0 +1,13 @@
+{
+	"order" : ["title", "images"],
+	"class" : "defence",
+	"title" : "Defence",
+	"text" : "",
+	"contact" : "For technical details, please ",
+	"sub_sections" : [
+		{
+			"order" : ["text1"],
+			"text1" 	: "Services provided include electronics cooling design and mechanical engineering through concept and assessment to engineering design, and across the in-service support spectrum. Shiretechnik has a deep involvement in support of design and development of defence products. As well as providing a range of specialist engineering capabilities."
+		}
+	]
+}

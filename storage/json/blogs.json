@@ -5,8 +5,9 @@
 			"order" : ["title"],
 			"class" : "blogs",
 			"urlKey" : "wondy",
-			"title" : "Wondy(Francesca Del Rosso)-The Brave Lady",
-			"text" : "Wondy (Francesca Del Rosso) left us…..She died of “Cancer”—one of the biggest challenges to our society, a challenge to the medical science, a challenge to the researcher all over the World!",
+			"by" : "Shankar Satchidanandan",
+			"title" : "Improved thermal modeling techniques for bond wires in CFD",
+			"text" : "The paper investigates the accuracy and computational efficiency of various thermal modeling approaches for bond-wires in wire bonded packages. It recommends an improved thermal modeling technique for thermal designers that can be implemented in their work. The significance of the thermal impact of bond-wires in IC packages is also demonstrated",
 			"sub_sections" : [
 				{
 					"order" : ["text1"],
@@ -23,43 +24,6 @@
 				{
 					"order" : ["text1"],
 					"text1" : "She wrote: ‘Friendships based on the good are rare, require precise choices, time and awareness, have to overcome many trials and consolidate with time. Friendship is a choice, a deep bond, a source of happiness and also an excellent weapon to face the turning points along the path of life."
-				}
-			]
-		},
-
-		{
-			"order" : ["title"],
-			"class" : "blogs",
-			"urlKey" : "breast_cancer",
-			"title" : "Genetics And Breast Cancer Risks",
-			"text" : "All cancer is genetic, but not all cancer is hereditary; so it’s very important to choose your parents. Cancers within the family that are genetically linked, but not necessarily one that gets passed on from generation to generation.”Breast cancer gene one (BRCA1) and breast cancer gene two (BRCA2) are both high on the list for gene mutations that cause breast cancer in both men and women. They are the most famous, but not the sole reasons for getting breast or ovarian cancerCowden syndrome, Chek2 gene, and li-fraumeni syndrome, those are rare gene that can produce multiple cancers in the same individual.",
-			"sub_sections" : [
-				{
-					"order" : ["text1"],
-					"text1" : "Certain factors are considered before patients undergo the test, such as family history and the ability to respond to the outcome of the tests. Significant counseling needs to happen so the families are prepared to deal with the results of the test in the best possible way."
-					
-				},
-				{
-					"order" : ["text1"],
-					"text1" : "Seventy to 80 percent of all breast cancers are of sporadic variety. Fifteen to 20 percent is family clusters, where you have multiple family members that have that breast cancer, but not necessarily BRCA gene-related. Ultimately, the inherited variety is about 5 to 10 percent of all breast cancers. If someone does have the BRCA1 or BRCA2 genes, the chance of getting breast cancer increases significantly with age, from about 10 percent at age 40 to nearly 90 percent at age 70.It’s almost an absolute that if someone who is a carrier lives long enough, they will get the disease. This gives us an opportunity to intervene with earlier detection abilities. Genetic breast cancer develops when two normal genes both become damaged and a tumor starts to grow. In hereditary breast cancer, the person will already have a damaged gene passed down by their parents and only need one exposure to have a tumor grow.In order to combat cancer in those with the higher risk of the BRCA genes, medical surveillance starting at a younger age, including a clinical exam every six months, monthly self-breast exams, mammograms coupled with an ultrasound once a year, and an MRI once a year. A good mammogram can easily miss up to 15 percent of breast cancers,” ultrasound as well, especially because a younger woman has denser breast tissue."
-				}
-			]
-		},
-
-		{
-			"order" : ["title"],
-			"class" : "blogs",
-			"urlKey" : "saptapadi",
-			"title" : "Saptapadi (Saat Phere) In Hindu Marriage",
-			"text" : "According to Paraskar Grahaya Suktram and various other prominent Smritis, marriage has no strength or recognition if this rite is not duly performed. Until the bride has performed the Saptapadi she is considered to be unmarried. Saptapadi is the only ritual that gives the right to a girl to choose her husband in front of the sacred fire (Agni).",
-			"sub_sections" : [
-				{
-					"order" : ["text1"],
-					"text1" : "A question that often comes to the mind is why seven steps? Seven has a very deep spiritual, philosophical & divine significance in it. There are seven matrikas or seven aspects of mother energy. The sacred fire has seven flames, there are seven porous pious rivers, seven phases in the life of a woman, seven elements of body, seven notes of music, seven rays of the sun and seven main planets. Therefore, seven is always considered to be a mystic number that bestows long life. In the famous puranic story of Savitri and Satyavan, Savitri mentions to Yamaraj (Lord of Death) that I have moved with you for seven steps, so we are already friends. As a friend how can you make me a widow by taking away my husband Satyawan’s soul. Hence the concept of Saptapadi is very closely related with our mystic legends in the tradition of fulfilling the four ends of human life i.e. Dharma, Kama, Artha and Moksha in family life (grahasta)."
-				},
-				{
-					"order" : ["text1"],
-					"text1" : "It is important to mention here, that this ceremony i.e. Saptapadi is mostly confused with pheras or agni pradakshina. The agni pradakshina or pheras is a totally different rite of four, three or seven circuits round the sacred fire, three of which are led by the bride and rest by bridegroom. The Saptapadi on the other hand is the rite of seven steps taken together by the bride and the bridegroom, at a slow and measured pace side-by-side and step-by step in the north-eastern direction. While moving forward the bride is always on the right side so that the bridegroom’s right hand is on her right shoulder. He says to her “Let not your left foot surpass your right foot.” With each step, the bride and the bridegroom take a pledge together."
 				}
 			]
 		}

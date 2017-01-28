@@ -22,7 +22,7 @@ class ContactsController extends Controller {
 		Log::info($message);
 		$this->emailService->sendMail(['name' => $name, 'email' => $email, 'txt' => $message], "info@shiretechnik.com", explode(',',env('NEW_CONTACT_MAIL_TO')), "New Contact", 'email.newContact');
 		$request->session()->flash('alert-success', 'Thank you. Will get in touch');
-		return redirect('/');
+		return redirect('/contact');
 	}
 
 	public function getContact( Request $request ) {

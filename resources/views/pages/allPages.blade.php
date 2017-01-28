@@ -38,13 +38,13 @@
 
 											<ul class="images-list">
 												<li class="image">
-													@if( isset( $images[0] ) ) 
-														<img src="{{$images[0]}}">
+													@if( isset( $images[1] ) ) 
+														<img src="{{$images[1]}}">
 													@endif
 												</li>
 												<li class="image no-tab">
-													@if( isset( $images[1] ) ) 
-														<img src="{{$images[1]}}">
+													@if( isset( $images[0] ) ) 
+														<img src="{{$images[0]}}">
 													@endif
 												</li>
 												<li class="image no-tab no-mobile">
@@ -80,9 +80,18 @@
 
 								@elseif ( $json['sub_sections'][$i]['order'][$j] == 'subtitle' ) 
 									
-									<p class="headding bold blue title-spacing">
-										{{ $json['sub_sections'][$i]['subtitle'] }}
-									</p>								
+									@if( isset( $json['sub_sections'][$i]['subtitle']['link'] ) ) 
+										<p class="headding bold blue title-spacing">
+											<a target="_blank" href="{{ $json['sub_sections'][$i]['subtitle']['link']['link'] }}">
+												{{ $json['sub_sections'][$i]['subtitle']['link']['text'] }}	
+											</a>
+											
+										</p>								
+									@else
+										<p class="headding bold blue title-spacing">
+											{{ $json['sub_sections'][$i]['subtitle'] }}
+										</p>								
+									@endif
 
 								@elseif ( $json['sub_sections'][$i]['order'][$j] == 'text1' )
 									
@@ -122,6 +131,19 @@
 									<p class="block text justify">
 										{{ $json['sub_sections'][$i]['text2'] }}
 									</p>
+
+								@elseif ( $json['sub_sections'][$i]['order'][$j] == 'link' )
+									
+									<a class="block text" target="_blank" href="{{ $json['sub_sections'][$i]['link']['link'] }}">
+										{{ $json['sub_sections'][$i]['link']['text'] }}
+									</a>
+
+								@elseif ( $json['sub_sections'][$i]['order'][$j] == 'video' )
+									
+									<video  controls>
+										<source src="{{ $json['sub_sections'][$i]['video'] }}" type="video/mp4" />
+										Your browser does not support the video tag.
+									</video>
 
 								@elseif ( $json['sub_sections'][$i]['order'][$j] == 'simpleTitle' )
 									

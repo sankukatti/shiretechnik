@@ -7,10 +7,10 @@
 					<div class="social-images-block">
 						
 						<!-- <a href=""><img src="/images/socialIcons/facebook.png"></a> -->
-						<a href=""><img src="/images/socialIcons/google.png"></a>
-						<a href=""><img src="/images/socialIcons/linkedin.png"></a>
+						<a href="" target="_blank"><img src="/images/socialIcons/google.png"></a>
+						<a href="" target="_blank"><img src="/images/socialIcons/linkedin.png"></a>
 						<!-- <a href=""><img src="/images/socialIcons/twitter.png"></a> -->
-						<a href=""><img src="/images/socialIcons/youtube.png"></a>
+						<a href="https://www.youtube.com/channel/UCKwD3x3tNsOECh5c24Wzb6g" target="_blank"><img src="/images/socialIcons/youtube.png"></a>
 					</div>
 			</div>
 

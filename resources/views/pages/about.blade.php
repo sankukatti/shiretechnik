@@ -22,19 +22,25 @@
 
 					<p class="title-text bold blue title-spacing">
 						
-					</p>
-
-					<p class="block text justify">
-						Shiretechnik is headquartered in Bangalore with wide support network offices, and a strong network of channel partners.
 					</p>				
 
 				</div>
 			</div>
+			
+
+			<p class="title-text bold blue title-spacing">
+				Leadership
+			</p>
+
 			<hr/>
+
+			<p class="block text justify">
+				Shiretechnik is headquartered in Bangalore with wide support network offices, and a strong network of channel partners.
+			</p>
 
 			<div class="row">
 				<div class="col-sm-3" data-toggle="modal" data-target="#shankar">
-					<img class="team-image" src="images/about/shankar.jpg"/>
+					<img class="team-image" src="images/about/shankar.jpeg"/>
 					<p class="bold blue" >
 						Shankar S - Lead Thermal & CFD
 					</p>
@@ -48,7 +54,7 @@
 				<div class="col-sm-3" data-toggle="modal" data-target="#debasis">
 					<img class="team-image" src="images/about/dummy.jpg"/>
 					<p class="bold blue">
-						Debasis - Lead HVAC design
+						Debasis - Lead HVAC Design
 					</p>
 				</div>
 				<div class="col-sm-3" data-toggle="modal" data-target="#moumita">
@@ -117,7 +123,6 @@
 		</div>
 	</section>
 
-
 	<div id="shankar" class="modal fade" role="dialog">
 		<div class="modal-dialog">
 
@@ -155,7 +160,7 @@
 				</div>
 				<div class="modal-body">
 					<p class="block justify">
-						Sandeep has more than twelve years of professional experience in on Software development CAE, domain and hardware product engineering in private sectors. He was part of FloTherm development team also worked for Dassault Systems, ESI etc. He holds a Master’s and and Bachelor’s degrees in Mechanical Engineering from Indian Institute of Technology (IIT), Kharagpur. He has deep expertise in CFD simulation tools. He is a founder Director of Sandebtech Pvt Ltd. His Samba moves are really eye catching, also participated in Hong Kong International samba compaction.
+						Sandeep has more than twelve years of professional experience in CAE Software development domain and hardware product engineering in private sectors. He was the part of FloTHERM development team and also has worked for Dassault Systems, ESI etc. He holds Master’s and Bachelor’s degrees in Mechanical Engineering from Indian Institute of Technology (IIT), Kharagpur. He has deep expertise in CFD simulation tools. He is also co-founder of  SANDEBTech Pvt.Ltd. 
 					</p>
 					<p class="block justify">
 						Track Record - Dassault Systems, ESI, Flomerics India Pvt Ltd sportskeeda.com, policymantra.com.
@@ -180,7 +185,7 @@
 				</div>
 				<div class="modal-body">
 					<p class="block justify">
-						Debasis has eleven years of professional experience on Software development, hardware product engineering, Sales and Business development activities in private sectors. He was also a part of core development team for developing software thermal CFD products like FloTHERM, FloTHERM PACK. He keeps proven track records of executing complex functional hardware projects, and delivered the world-class products in telecom, Defence, Aerospace and Consumer Applications domain.
+						Debasis has eleven years of professional experience in Software development, hardware product engineering, Sales and Business development activities in private sectors. He was a part of core development team for developing thermal CFD products like FloTHERM, FloTHERM PACK. He has proven track records of executing complex functional hardware projects and delivered the world-class products in Telecom, Defence, Aerospace and Consumer Applications domain.
 					</p>
 				</div>
 				<div class="modal-footer">
@@ -202,14 +207,7 @@
 				</div>
 				<div class="modal-body">
 					<p class="block justify">
-						Moumita has eight years of professional experience on product development in automotive and petroleum industry. She holds a Master’s degrees in Chemical Engineering from Indian Institute of Technology (IIT), Chennai. She has deep expertise in CFD simulation tools, worked in thermal modeling of electro-chemical energy storage devices, computational fluid flow and heat analysis in Evaporator & Distillation Columns using COMSOL software.
-					</p>
-					<p class="block justify">
-						Other area of works are 
-						Heat Transfer Analysis of Heat Ex-changers,
-						Optimization of natural and forced convection in storage tanks,
-						MATLAB and Simulink modelling of battery and Solar PV modules,
-						and She is fond of writing, design arts work, her few write up can be explored at <a href="http://www.pinkjooz.com/index.php/author/mou_nandi/">pinkjooz </a>
+						Moumita has eight years of professional experience in product development in automotive and petroleum industry. She holds a Master’s degree in Chemical Engineering from Indian Institute of Technology (IIT), Chennai. She has deep expertise in CFD simulation tools, worked in thermal modeling of electrochemical energy storage devices, computational fluid flow and heat analysis in Evaporator & Distillation Columns using COMSOL software. Her other areas of expertise are - Heat Transfer Analysis of Heat Exchangers, Optimization of natural and forced convection in storage tanks, MATLAB and Simulink modeling of battery and Solar PV modules. 
 					</p>
 				</div>
 				<div class="modal-footer">

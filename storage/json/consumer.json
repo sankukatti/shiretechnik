@@ -1,0 +1,13 @@
+{
+	"order" : ["title", "images"],
+	"class" : "consumer",
+	"title" : "Consumer Products",
+	"text" : "",
+	"contact" : "For technical details, please ",
+	"sub_sections" : [
+		{
+			"order" : ["text1"],
+			"text1" 	: "Shiretechnik has extensive design experience in design and development of consumer electronic products. We strive to provide our customers with innovative and competitive solutions, tailored to meet their technical requirements, so that their business goals will be achieved in a timely and cost-effective manner."
+		}
+	]
+}

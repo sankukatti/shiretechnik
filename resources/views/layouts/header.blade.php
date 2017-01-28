@@ -46,8 +46,8 @@
 							<li><a href="/industries/elecCooling">Electronics</a></li>
 							<li ><a href="/industries/aerospace">Aerospace</a></li>
 							<li><a href="/industries/automobile">Automotive</a></li>
-							<li><a href="javascript:;">Defence</a></li>
-							<li><a href="javascript:;">Consumer Products</a></li>
+							<li><a href="/industries/defence">Defence</a></li>
+							<li><a href="/industries/consumerProducts">Consumer Products</a></li>
 							<!-- <li><a href="javascript:;">Healthcare</a></li>
 							<li><a href="javascript:;">Oil &amp; Gas</a></li> -->
 						</ul>

@@ -18,12 +18,12 @@
 	},
 
 	"three" : {
-		"title" : "Thermal Simulation & Analysis for All Domain",
+		"title" : "Thermal Simulation & Analysis for All Applications",
 		"desc1" : "",
 		"desc2" : "",
 		"list" : [
 			"Concept level analysis", "Board level analysis", "Component level analysis", 
-			"System level analysis" ],
+			"System level analysis", "Uses the Leading Thermal Simulation Tools" ],
 		"link" 	: "/products/elecCooling"
 	},
 

@@ -104,6 +104,28 @@ class PagesController extends Controller
 		return view( 'pages.allPages', [ 'images' => $files ,'json' => $json ] );	
 	}
 
+	public function getConsumerProducts( Request $request ) {
+		/*Get json file which contains HVAC content*/
+		$path 				= storage_path() . "/json/consumer.json";
+		$json 				= json_decode(file_get_contents($path), true); 
+		$directoryName 		= 'consumer';		
+
+		$files = $this->getImageFiles($directoryName);
+
+		return view( 'pages.allPages', [ 'images' => $files ,'json' => $json ] );	
+	}
+
+	public function getDefence( Request $request ) {
+		/*Get json file which contains HVAC content*/
+		$path 				= storage_path() . "/json/defence.json";
+		$json 				= json_decode(file_get_contents($path), true); 
+		$directoryName 		= 'defence';		
+
+		$files = $this->getImageFiles($directoryName);
+
+		return view( 'pages.allPages', [ 'images' => $files ,'json' => $json ] );	
+	}
+
 	public function getTurboSoftware( Request $request ) {
 		return view( 'pages.turboSoftware' );	
 	}

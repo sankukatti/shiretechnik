@@ -1,7 +1,7 @@
 {
-	"order" : ["title"],
+	"order" : ["title", "images"],
 	"class" : "automobile",
-	"title" : "AUTOMOBILE",
+	"title" : "Automobile",
 	"text" : "",
 	"contact" : "For technical details, please",
 	"sub_sections" : [

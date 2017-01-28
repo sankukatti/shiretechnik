@@ -16,13 +16,13 @@
 		#homeCarousel {
 			/*border: 1px solid $logoBrown;*/
 			/*max-width: 900px;*/
-			max-height: 300px;
+			max-height: 400px;
 			margin: auto;
 			
 			.item {
 				img {
 					max-width: 900px;
-					max-height: 300px;
+					max-height: 400px;
 					margin: auto;
 				}
 			}
@@ -75,6 +75,17 @@
 
 		.headding {
 			text-align: center;
+
+			.brand-link {
+				display: block;
+				text-align: center;
+				font-size: 10px;
+			}
+
+			.brand-image {
+				width: 100px;
+				height: auto;
+			}
 		}
 
 		.image-div, .video-div {
@@ -90,6 +101,7 @@
 
 			video {
 				background-color: black;
+				height: 200px;
 			}
 		}
 	}

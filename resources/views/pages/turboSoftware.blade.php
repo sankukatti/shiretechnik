@@ -8,7 +8,7 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<p class="title-text bold blue title-spacing capitalize">
-						SOFTWARE
+						Software
 					</p>
 
 					
@@ -134,7 +134,7 @@
 				<div class="col-sm-12 book1-section">
 					<a href="http://www.cfdsupport.com/turbo-blade-post.html" target="_blank">
 						<p class="sub-title-text blue">
-							<strong>Turbo Blade Post</strong>
+							<strong>Turbo Blade Post – </strong>
 							<span> Post processing Para View Plug-in </span> 
 						</p>
 					</a>	
@@ -161,11 +161,16 @@
 						</li>
 					</ul>
 
-					<p class="text">
+					<p class="text block">
 						Turbo Blade Post is not dependent on other software and goes very well together with OpenFOAM® based solutions. Turbo Blade Post is provided both for Linux and also for Microsoft Windows OS.
 					</p>
 				</div>
 			</div>
+
+			<p class="block text justify contactUs">
+				For Demo and product detail please
+				<a href="/contact">Contact us</a>
+			</p>
 		</div>
 	</section>
 @endsection
