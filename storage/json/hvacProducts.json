@@ -38,28 +38,6 @@
 			"title" : "PROCUCTS"
 		},
 		{
-			"order" : ["subtitle", "text1", "product"],
-			"subtitle" : {
-				"link" : {
-					"link" : "http://www.wildeboer.de/uploads/media/user_manual_VRE1.pdf",
-					"text" : "VAV"
-				}
-			},
-			"text1" : "VRE1 volume flow controller for ventilation and air conditioning systems. Versatile.",
-			"product" : {
-				"image" : "hvacProducts/products/vav.jpg",
-				"list" : [ "Sizes DN 100 to DN 400.", 
-							"Operating voltage: 24 V AC/DC.",
-							"Operation modes: Constant, 4-point, Variable (0 – 10 V, 2 – 10 V, 2 – 8 V).",
-							"Leak tightness classes according to DIN EN 1751: Casing C, shut-off damper 3 and 4.", 
-							"Measuring device integrated into the damper blade. Outstanding control accuracy.",
-							"Displays and settings are carried out digitally, also using a PC.", 
-							"Efficiency signal for optimising the fan output during operation.",
-							"Overrides for complete opening and closing."
-				]
-			}
-		},
-		{
 			"order" : ["subtitle", "product"],
 			"subtitle" : {
 				"link" : {
@@ -126,6 +104,28 @@
 		{
 			"order" : ["video"],
 			"video" : "/videos/flow_limiter.mp4"
+		},
+		{
+			"order" : ["subtitle", "text1", "product"],
+			"subtitle" : {
+				"link" : {
+					"link" : "http://www.wildeboer.de/uploads/media/user_manual_VRE1.pdf",
+					"text" : "VAV"
+				}
+			},
+			"text1" : "VRE1 volume flow controller for ventilation and air conditioning systems. Versatile.",
+			"product" : {
+				"image" : "hvacProducts/products/vav.jpg",
+				"list" : [ "Sizes DN 100 to DN 400.", 
+							"Operating voltage: 24 V AC/DC.",
+							"Operation modes: Constant, 4-point, Variable (0 – 10 V, 2 – 10 V, 2 – 8 V).",
+							"Leak tightness classes according to DIN EN 1751: Casing C, shut-off damper 3 and 4.", 
+							"Measuring device integrated into the damper blade. Outstanding control accuracy.",
+							"Displays and settings are carried out digitally, also using a PC.", 
+							"Efficiency signal for optimising the fan output during operation.",
+							"Overrides for complete opening and closing."
+				]
+			}
 		},
 		{
 			"order" : ["subtitle", "product"],

@@ -41,32 +41,30 @@
 
 
 
-				@if( count($json['openings']) > 0) 
-					<div class="col-sm-4 career-form">
-						<form role="form" method="post" enctype="multipart/form-data" action="">
+				<div class="col-sm-4 career-form">
+					<form role="form" method="post" enctype="multipart/form-data" action="">
+						<div class="form-group">
 							<div class="form-group">
-								<div class="form-group">
-									<label class="sr-only" for="email">Full name</label>
-			    					<input type="text" name="name" placeholder="Full name" class="form-control" id="email" required>
-								</div>
-
-								<div class="form-group">
-									<label class="sr-only" for="email">Email address:</label>
-			    					<input type="email" name="email" placeholder="Email" class="form-control" id="email" required>
-								</div>
-
-								<div class="form-group">
-									<label class="" for="email">Attach your CV</label>
-			    					<input type="file" name="resume" class="form-control" value="Attach your CV" accept=".doc,.pdf,.docx,.txt" required>
-								</div>
-
-								<input type="hidden" name="_token" value="{{ csrf_token() }}">
-								<button type="submit" class="btn btn-default background-blue white">Submit</button>
-
+								<label class="sr-only" for="email">Full name</label>
+		    					<input type="text" name="name" placeholder="Full name" class="form-control" id="email" required>
 							</div>
-						</form>	
-					</div>
-				@endif
+
+							<div class="form-group">
+								<label class="sr-only" for="email">Email address:</label>
+		    					<input type="email" name="email" placeholder="Email" class="form-control" id="email" required>
+							</div>
+
+							<div class="form-group">
+								<label class="" for="email">Attach your CV</label>
+		    					<input type="file" name="resume" class="form-control" value="Attach your CV" accept=".doc,.pdf,.docx,.txt" required>
+							</div>
+
+							<input type="hidden" name="_token" value="{{ csrf_token() }}">
+							<button type="submit" class="btn btn-default background-blue white">Submit</button>
+
+						</div>
+					</form>	
+				</div>
 					
 			</div>
 		</div>
