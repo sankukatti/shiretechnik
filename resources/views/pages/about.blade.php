@@ -42,7 +42,7 @@
 				<div class="col-sm-3" data-toggle="modal" data-target="#shankar">
 					<img class="team-image" src="images/about/shankar.jpeg"/>
 					<p class="bold blue" >
-						Shankar S - Lead Thermal & CFD
+						Shankar S - Director Engineering
 					</p>
 				</div>	
 				<div class="col-sm-3" data-toggle="modal" data-target="#sandeep">
@@ -54,7 +54,7 @@
 				<div class="col-sm-3" data-toggle="modal" data-target="#debasis">
 					<img class="team-image" src="images/about/dummy.jpg"/>
 					<p class="bold blue">
-						Debasis - Lead HVAC Design
+						Debasis - Director Operations
 					</p>
 				</div>
 				<div class="col-sm-3" data-toggle="modal" data-target="#moumita">
