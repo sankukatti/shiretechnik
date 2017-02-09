@@ -5,6 +5,19 @@
 		display: block;
 	}
 
+	.creator {
+		text-align: left !important;
+		left: 20px;
+		position: absolute;
+		display: inline-block;
+		margin: 20px 10px 0px 10px;
+		img {
+			width: 100px !important;
+		    margin: 0px auto !important;
+		    display: block;
+		}
+	}
+
 	.social-images-block {
 		text-align: center;
 
