@@ -64,64 +64,46 @@
 					</p>
 				</div>			
 			</div>
-			<!-- <div class="row">
+			
+			<div class="row">
 				<div class="col-sm-12">
-					<p class="sub-title-text bold blue">
-						Team
+					<p class="title-text bold blue title-spacing block">
+						Advisory Board Member 
 					</p>
 				</div>
-
-				<div class="col-sm-3">
-					<img class="team-image" src="images/about/shankar.jpg"/>
-				</div>
-				<div class="col-sm-9">
-					<p class="bold blue">
-						Shankar S - Lead Thermal & CFD
+			</div>
+			<div class="row">
+				<div class="col-sm-3" data-toggle="modal" data-target="#subrata">
+					<img class="team-image" src="images/about/subrata.jpg"/>
+					<p class="bold blue" >
+						Subrata Patra
 					</p>
-					<p class="block justify">
-						Shankar has seventeen years of professional experience on hardware product engineering and program management worked with the leading development teams in private sectors. He holds a Master’s degree in thermal engineering from Indian Institute of Technology (IIT), Chennai and two Bachelor degrees in mechanical engineering from Institute of Engineers, Kolkata and in mathematics from Madras University. He was in core development team for developing Thermal products FloTHERM , FloTHERM PACK. He keeps proven track records of managing complex functional hardware projects, and delivered the world-class products in Telecom, Defence, Aerospace and Consumer Applications. He received several honours &amp; awards in his professional career and notably winner of prestigious annual award for &amp; Values Personification &amp; in Leadership category from Aricent for the successful project management in the year 2013. He has deep expertise in CFD simulation tools with a special focus on electronics cooling analysis, and also authored the papers on thermal modelling in CFD environments in IEEE conferences. 
-					</p>
-
-					<p class="block justify">
-						Certified Reliability Professional with Outstanding Grade from Centre for Reliability (CFR) – STQC Directorate, Ministry of Communication and Information Technology, Government of India. He has sound technical knowledge in Reliability Engineering. 
-					</p>	
-				</div>
-
-				<div class="col-sm-3">
-					<img class="team-image" src="images/about/sandeep.jpeg"/>
-				</div>
-				<div class="col-sm-9">
-					<p class="bold blue">
-						Sandeep Nandi - Lead Thermal &amp; Mechanical
-					</p>
-
-					<p class="block justify">
-						Sandeep has more than twelve years of professional experience in on Software development CAE, domain and hardware product engineering in private sectors. He was part of FloTherm development team also worked for Dassault Systems, ESI etc. He holds a Master’s and and Bachelor’s degrees in Mechanical Engineering from Indian Institute of Technology (IIT), Kharagpur. He has deep expertise in CFD simulation tools. He is a founder Director of Sandebtech Pvt Ltd. His Samba moves are really eye catching, also participated in Hong Kong International samba compaction.
-					</p>
-					<p class="block justify">
-						Track Record - Dassault Systems, ESI, Flomerics India Pvt Ltd sportskeeda.com, policymantra.com.
-					</p>
-				</div>
-
-				<div class="col-sm-12">
-					
-				</div>
-
-				<div class="col-sm-3">
-					<img class="team-image" src="images/about/debsis.jpg"/>
-				</div>
-				<div class="col-sm-9">
-					<p class="bold blue">
-						Debasis - Lead HVAC design
-					</p>
-
-					<p class="block justify">
-						Debasis has eleven years of professional experience on Software development, hardware product engineering, Sales and Business development activities in private sectors. He was also a part of core development team for developing software thermal CFD products like FloTHERM, FloTHERM PACK. He keeps proven track records of executing complex functional hardware projects, and delivered the world-class products in telecom, Defence, Aerospace and Consumer Applications domain.
-					</p>
-				</div>
-			</div> -->
+				</div>	
+			</div>
 		</div>
 	</section>
+
+	<div id="subrata" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Subrata Patra - Advisory Board Member </h4>
+				</div>
+				<div class="modal-body">
+					<p class="block justify">
+						Former space scientist, Subrata is an experienced leader of organization units delivering strong top-line and bottom-line growth through innovation, quality execution, and premier customer service. He has served 17 years in progressive roles in technology industry, including global product portfolio leadership, country management, best known methods influencing thermal industry's design practices. Subrata has expertise across thermal engineering and EMI/EMC leadership in marquee organizations like ISRO, Intel, Parker Hannifin. He has also served hundreds of customers in a wide variety of settings, including flagship and global accounts, across 10+ markets. Subrata is an alumnus of UC Berkeley Haas School of Business, IIT Delhi, and Jadavpur University.
+					</p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+
+		</div>
+	</div>
 
 	<div id="shankar" class="modal fade" role="dialog">
 		<div class="modal-dialog">
