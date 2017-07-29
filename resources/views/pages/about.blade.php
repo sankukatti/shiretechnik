@@ -78,6 +78,13 @@
 					<p class="bold blue" >
 						Subrata Patra
 					</p>
+				</div>
+
+				<div class="col-sm-3" data-toggle="modal" data-target="#sarang_shidore">
+					<img class="team-image" src="images/about/shidore.jpg"/>
+					<p class="bold blue" >
+						Sarang Shidore
+					</p>
 				</div>	
 			</div>
 		</div>
@@ -95,6 +102,34 @@
 				<div class="modal-body">
 					<p class="block justify">
 						Former space scientist, Subrata is an experienced leader of organization units delivering strong top-line and bottom-line growth through innovation, quality execution, and premier customer service. He has served 17 years in progressive roles in technology industry, including global product portfolio leadership, country management, best known methods influencing thermal industry's design practices. Subrata has expertise across thermal engineering and EMI/EMC leadership in marquee organizations like ISRO, Intel, Parker Hannifin. He has also served hundreds of customers in a wide variety of settings, including flagship and global accounts, across 10+ markets. Subrata is an alumnus of UC Berkeley Haas School of Business, IIT Delhi, and Jadavpur University.
+					</p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<div id="sarang_shidore" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Sarang Shidore - Advisory Board Member </h4>
+				</div>
+				<div class="modal-body">
+					<p class="block justify">
+						Sarang Shidore is an industry expert in semiconductor thermal phenomena. Received the B.S. degree from the Indian Institute of Technology, Madras, and the M.S. degree from the University of Texas, Austin.
+					</p>
+					<p class="block justify">
+						Since 1995, he worked at Flomerics, Inc., Austin, TX, in various roles in engineering and product management with a special focus on package-level thermal modeling and analysis, a field in which he had authored several papers and articles. Developed two international standards as Vice-Chair of the JC15 committee of JEDEC, the international standards body for the semiconductor industry. Had worldwide product responsibilities - from roadmaps to rollout. Instrumental in establishing Flomerics Development Centre in Bangalore, India. Conceptualized and created two web-based software products in semiconductor thermal analysis catering to several Fortune 500 companies such as Texas Instruments, Intel, ST Microelectronics, etc. The product made a quantum leap in Flomerics' offerings to the semiconductor industry.
+					</p>
+					<p class="block justify">
+						In addition, he worked for Mentor Graphics as Product Marketing Manager and for several years as a consultant for various organizations. He is currently a visiting scholar at the Lyndon B. Johnson School of Public Affairs at the University of Texas at Austin, focused on energy and climate policy and future strategies.
 					</p>
 				</div>
 				<div class="modal-footer">
