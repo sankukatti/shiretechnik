@@ -40,19 +40,19 @@
 
 			<div class="row">
 				<div class="col-sm-3" data-toggle="modal" data-target="#shankar">
-					<img class="team-image" src="images/about/shankar.jpeg"/>
+					<img class="team-image" src="images/about/shankar.jpg"/>
 					<p class="bold blue" >
 						Shankar S - Director Engineering
 					</p>
 				</div>	
 				<div class="col-sm-3" data-toggle="modal" data-target="#sandeep">
-					<img class="team-image" src="images/about/sandeep.jpg"/>
+					<img class="team-image" src="images/about/sandeep.png"/>
 					<p class="bold blue" >
 						Sandeep Nandi - Lead Thermal &amp; Mechanical
 					</p>
 				</div>
 				<div class="col-sm-3" data-toggle="modal" data-target="#debasis">
-					<img class="team-image" src="images/about/dummy.jpg"/>
+					<img class="team-image" src="images/about/debasis.png"/>
 					<p class="bold blue">
 						Debasis - Director Operations
 					</p>
