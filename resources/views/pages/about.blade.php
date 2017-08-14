@@ -123,13 +123,16 @@
 				</div>
 				<div class="modal-body">
 					<p class="block justify">
-						Sarang Shidore is an industry expert in semiconductor thermal phenomena. Received the B.S. degree from the Indian Institute of Technology, Madras, and the M.S. degree from the University of Texas, Austin.
+						Sarang Shidore is an expert in semiconductor thermal phenomena and corporate strategy and product planning. He received his Bachelor's degree from the Indian Institute of Technology, Madras, and his Master's degree from the University of Texas, Austin.
 					</p>
 					<p class="block justify">
-						Since 1995, he worked at Flomerics, Inc., Austin, TX, in various roles in engineering and product management with a special focus on package-level thermal modeling and analysis, a field in which he had authored several papers and articles. Developed two international standards as Vice-Chair of the JC15 committee of JEDEC, the international standards body for the semiconductor industry. Had worldwide product responsibilities - from roadmaps to rollout. Instrumental in establishing Flomerics Development Centre in Bangalore, India. Conceptualized and created two web-based software products in semiconductor thermal analysis catering to several Fortune 500 companies such as Texas Instruments, Intel, ST Microelectronics, etc. The product made a quantum leap in Flomerics' offerings to the semiconductor industry.
+						Since 1995, he worked at Flomerics Inc., at Austin, TX, in various roles in engineering and product management with a special focus on package-level thermal modeling and analysis, a field in which he authored several papers and articles, and also developed two international standards as Vice-Chair of the JC15 committee of JEDEC, the international standards body for the semiconductor industry.
 					</p>
 					<p class="block justify">
-						In addition, he worked for Mentor Graphics as Product Marketing Manager and for several years as a consultant for various organizations. He is currently a visiting scholar at the Lyndon B. Johnson School of Public Affairs at the University of Texas at Austin, focused on energy and climate policy and future strategies.
+						At Flomerics, he had worldwide product responsibilities - from roadmaps to rollout. He Conceptualized and created two web-based software products in semiconductor thermal analysis catering to several Fortune 500 companies such as Texas Instruments, Intel, ST Microelectronics, etc. The product made a quantum leap in Flomerics' offerings to the semiconductor industry. He was also key in establishing the Flomerics Development Centre in Bangalore.
+					</p>
+					<p class="block justify">
+						In addition, he worked for Mentor Graphics as Product Marketing Manager and for several years as a consultant for various organizations. He is currently a visiting scholar at the Lyndon B. Johnson School of Public Affairs at the University of Texas at Austin, focused on energy and climate policy and engaged in consulting in strategy and scenario planning.
 					</p>
 				</div>
 				<div class="modal-footer">
