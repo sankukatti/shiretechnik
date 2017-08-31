@@ -44,7 +44,17 @@ class PagesController extends Controller
 
 		$files = $this->getImageFiles($directoryName);
 
-		Log::info(print_r($json,1));
+		return view( 'pages.allPages', [ 'images' => $files ,'json' => $json ] );	
+	}
+
+	public function getcrTech( Request $request ) {
+		/*Get json file which contains HVAC content*/
+		$path 				= storage_path() . "/json/crtech.json";
+		$json 				= json_decode(file_get_contents($path), true); 
+		$directoryName 		= 'crtech';		
+
+		$files = $this->getImageFiles($directoryName);
+
 		return view( 'pages.allPages', [ 'images' => $files ,'json' => $json ] );	
 	}
 

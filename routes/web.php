@@ -20,6 +20,7 @@ Route::get( '/products/hvacServices', 'PagesController@getHcavServices' );
 Route::get( '/products/mechDesign', 'PagesController@getMechDesign' );
 Route::get( '/products/reliability', 'PagesController@getReliability' );
 Route::get( '/products/turboSoftware', 'PagesController@getTurboSoftware' );
+Route::get( '/products/crtechSolutions', 'PagesController@getcrTech' );
 
 Route::get( '/industries/aerospace', 'PagesController@getAerospace' );
 Route::get( '/industries/automobile', 'PagesController@getAutomibile' );

@@ -14,10 +14,6 @@
 			}
 		},
 		{
-			"order" : ["video"],
-			"video" : "/videos/wildeboer.mp4"
-		},
-		{
 			"order" : ["text1"],
 			"title" : "",
 			"text1" : "Constant Volume Control (CAV) is a mechanical volume flow unit which provide maintenance free operations. CAV replace conventional throttle elements in ventilation systems which are pressure independent product."

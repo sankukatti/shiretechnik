@@ -5,6 +5,7 @@
 	</a>
 	<ul class="dropdown-menu">
 		<li><a href="/products/turboSoftware">Turbomachinery CFD</a></li>
+		<li><a href="/products/crtechSolutions">C&R Technologies</a></li>
 		<!-- <li class="dropdown">
 			<a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 				Electronics

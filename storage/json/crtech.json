@@ -1,0 +1,140 @@
+{
+	"order" : ["title"],
+	"class" : "crtech",
+	"title" : "C&R Technologies",
+	"text" : "C&R Technologies provides best-of-class user-extensible heat transfer and fluid flow design and analysis capabilities accessible through both geometric and nongeometric user interfaces. System-level trade studies and other high-level design tasks that require the feedback of many specialized analyses and considerations: structural, electrical, CFD, aerothermal, optical, reliability, life cycle cost(LCC) or net present value (NPV), etc make CR TECH solutions unique.",
+	"contact" : "For product technical details, please",
+	"sub_sections" : [
+		{
+			"order" : ["text1"],
+			"title" : "",
+			"text1" : ""
+		},
+		{
+			"order" : ["link", "image"],
+			"image" : "crtech/crtechLogo.png",
+			"link" : {
+				"link" : "https://www.crtech.com/",
+				"text" : "We are authorised partner for"
+			}
+		},
+		{
+			"order" : ["text1"],
+			"title" : "",
+			"text1" : ""
+		},
+		{
+			"order" : ["image"],
+			"text1" : "",
+			"image" : "crtech/image1.png"
+		},
+		{
+			"order" : ["title"],
+			"title" : "PROCUCTS"
+		},
+		{
+			"order" : ["subtitle", "text1", "list", "link"],
+			"subtitle" : "SINDA/FLUINT",
+			"text1" : "SINDA/FLUINT is a comprehensive finite-difference, lumped parameter (circuit or network analogy) tool for heat transfer design and fluid flow analysis of complex systems. It is used at over 700 sites in 40 countries in the aerospace, electronics, petrochemical, power generation, medical, and automotive industries.",
+			"list" : [ 
+				"Thermal radiation, conduction, convection heat transfer.", 
+				"From component design to full system performance simulation",
+				"Steady state and transient heat transfer and fluid flow",
+				"Time, temperature, and pressure-varying thermal and fluid properties", 
+				"Optional concurrently executed user logic and simulations",
+				"User-determined solution techniques, solution sequences, accuracy levels, and outputs", 
+				"Methods, controls, etc. can vary sub model by sub model",
+				"Convenient restarts and parametric analysis options",
+				"Compatible with the EZ-XY® Plotting Utility",
+				"Self-resolving spreadsheet-like expressions and user variables (registers)",
+				"Facilitates model maintenance: centralized changes",
+				"Makes what-if, parametrises, and sensitivity studies trivially easy",
+				"Let’s inputs be defined based on outputs, problem time, etc.",
+				"Extensive library of user-invoked routines (thermostatic heaters, phase change materials, math utilities, etc.)",
+				"Multiple fluid flow networks with coupled heat transfer solutions",
+				"User called routines for modelling common devices and phenomena",
+				"Heat pipes, constant and variable conductance",
+				"Thermoelectric cooling devices",
+				"Ice or frost accretion/melting simulation"
+			],
+			"link" : {
+				"link" : "/files/SindaFluint.pdf",
+				"text" : "More details click here SINDA/FLUINT BROCHURE"
+			}
+		},
+		{
+			"order" : ["subtitle", "text1", "list", "link"],
+			"subtitle" : "Thermal Desktop",
+			"text1" : "Thermal Desktop is a PC based thermal model builder with a built-in mesher. Thermal Desktop incorporates both familiar parameter based finite difference surfaces with finite elements using CAD technology to model heat transfer in a system. Thermal Desktop develops the capacitance and conductance network for input to SINDA/FLUINT. Additionally, Thermal Desktop provides capabilities such as applying contact conductance, insulation, heat loads, and heaters.",
+			"list" : [ 
+				"Top-level Thermal Modelling Features.", 
+				"Thermal-structural Geometry.",
+				"Thermal Model Building Tools.",
+				"Thermophysical Property Database.", 
+				"Import and Export Capabilities."
+			],
+			"link" : {
+				"link" : "/files/ThermalDesktop.pdf",
+				"text" : "More details click here THERMAL DESKTOP BROCHURE"
+			}
+		},
+		{
+			"order" : ["text1"],
+			"title" : "",
+			"text1" : ""
+		},
+		{
+			"order" : ["image"],
+			"text1" : "",
+			"image" : "crtech/image2.jpg"
+		},
+		{
+			"order" : ["subtitle", "text1", "list", "link"],
+			"subtitle" : "RadCAD",
+			"text1" : "RadCAD is the thermal radiation analyzer for use with Thermal Desktop or standalone. RadCAD provides options for using Monte Carlo Ray Tracing or progressive radiosity to calculate form factors, radiation conductors, and heating rates for geometrically defined surfaces. RadCAD is an add-on module for Thermal Desktop.",
+			"list" : [ 
+				"An ultra-fast, oct-tree accelerated Monte-Carlo ray tracing algorithm is used by RadCAD to compute radiation exchange factors and view factors. Innovations by C&R Technologies to the ray tracing process have resulted in an extremely efficient radiation analyser.", 
+				"Articulated Geometry: Moving Parts RadCAD is fully equipped to handle moving geometry. Fully user-definable Trackers allow part of the geometry to follow the sun, nadir, or any star. These Trackers can be nested to operate on multiple axes.",
+				"Radiation Environments."
+			],
+			"link" : {
+				"link" : "/files/radcad.pdf",
+				"text" : "More details click here RadCAD BROCHURE"
+			}
+		},
+		{
+			"order" : ["text1"],
+			"title" : "",
+			"text1" : ""
+		},
+		{
+			"order" : ["image"],
+			"text1" : "",
+			"image" : "crtech/image3.jpg"
+		},
+		{
+			"order" : ["subtitle", "text1", "link"],
+			"subtitle" : "TD Direct",
+			"text1" : "TD Direct is an add-on module for Thermal Desktop providing a bi-directional port to SpaceClaim, enhancing the CAD preparation and model maintenance processes. Analysts can extend the CAD preparation features in Space Claim by meshing surfaces and solids during import into Thermal Desktop, tag surfaces for heat loads, contact conductance, convection, and easily update the mesh if the part geometry changes.",
+			"list" : [ 
+				"An ultra-fast, oct-tree accelerated Monte-Carlo ray tracing algorithm is used by RadCAD to compute radiation exchange factors and view factors. Innovations by C&R Technologies to the ray tracing process have resulted in an extremely efficient radiation analyser.", 
+				"Articulated Geometry: Moving Parts RadCAD is fully equipped to handle moving geometry. Fully user-definable Trackers allow part of the geometry to follow the sun, nadir, or any star. These Trackers can be nested to operate on multiple axes.",
+				"Radiation Environments."
+			],
+			"link" : {
+				"link" : "/files/TDDirect.pdf",
+				"text" : "More details click here TD DIRECT BROCHURE"
+			}
+		},
+		{
+			"order" : ["text1"],
+			"title" : "",
+			"text1" : ""
+		},
+		{
+			"order" : ["image"],
+			"text1" : "",
+			"image" : "crtech/image4.jpg"
+		}
+	]
+}
