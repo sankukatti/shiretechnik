@@ -110,19 +110,33 @@
 		{
 			"order" : ["image"],
 			"text1" : "",
+			"image" : "crtech/image5.jpg"
+		},
+		{
+			"order" : ["subtitle", "text1", "link"],
+			"subtitle" : "FloCAD",
+			"text1" : "FloCAD is a graphical fluid analyzer module available for use with Thermal Desktop facilitating the integrated analysis of fluid and thermal systems within a CAD-based environment. FloCAD is an add-on module for Thermal Desktop which provides access to all of the capabilities in FLUINT.",
+			"link" : {
+				"link" : "/files/TDDirect.pdf",
+				"text" : "More details click here FloCAD BROCHURE"
+			}
+		},
+		{
+			"order" : ["text1"],
+			"title" : "",
+			"text1" : ""
+		},
+		{
+			"order" : ["image"],
+			"text1" : "",
 			"image" : "crtech/image3.jpg"
 		},
 		{
 			"order" : ["subtitle", "text1", "link"],
 			"subtitle" : "TD Direct",
 			"text1" : "TD Direct is an add-on module for Thermal Desktop providing a bi-directional port to SpaceClaim, enhancing the CAD preparation and model maintenance processes. Analysts can extend the CAD preparation features in Space Claim by meshing surfaces and solids during import into Thermal Desktop, tag surfaces for heat loads, contact conductance, convection, and easily update the mesh if the part geometry changes.",
-			"list" : [ 
-				"An ultra-fast, oct-tree accelerated Monte-Carlo ray tracing algorithm is used by RadCAD to compute radiation exchange factors and view factors. Innovations by C&R Technologies to the ray tracing process have resulted in an extremely efficient radiation analyser.", 
-				"Articulated Geometry: Moving Parts RadCAD is fully equipped to handle moving geometry. Fully user-definable Trackers allow part of the geometry to follow the sun, nadir, or any star. These Trackers can be nested to operate on multiple axes.",
-				"Radiation Environments."
-			],
 			"link" : {
-				"link" : "/files/TDDirect.pdf",
+				"link" : "/files/flocad.pdf",
 				"text" : "More details click here TD DIRECT BROCHURE"
 			}
 		},

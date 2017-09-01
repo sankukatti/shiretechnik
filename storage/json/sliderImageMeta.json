@@ -39,9 +39,9 @@
 
 	"five" : {
 		"title" : "Heat Transfer and Fluid Flow Modeling Software",
-		"desc1" : "Image courtesy C&R Technologies®",
-		"desc2" : "",
-		"list"  : [],
+		"desc1" : "",
+		"desc2" : "Image courtesy C&R Technologies®",
+		"list"  : ["Tools are highly extensible and customizable.", "They are fully parametric.", "Able to respond to dynamically to model changes.", "API for other tools for Integrating with SINDA/FLUINT and Thermal Desktop®, RadCAD®, FloCAD®"],
 		"link"  : "/products/crtechSolutions"
 	}
 }

@@ -50,7 +50,7 @@
 								                        @endif
 								                        
 								                        <p>{{$files[$i][1]['desc1']}}</p>
-								                        <p>{{$files[$i][1]['desc2']}}</p>
+								                        <p class="very-small-text">{{$files[$i][1]['desc2']}}</p>
 								                    </div>
 								            	</a>     
 								                    
