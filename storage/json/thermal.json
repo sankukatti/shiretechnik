@@ -1,0 +1,31 @@
+{
+	"order" : ["title", "images"],
+	"class" : "visualdoc",
+	"title" : "Thermal Analysis from Beginning to End",
+	"text"  : "Thermal Desktop includes all aspects of model creation. Built-in finite difference, finite element, and lumped capacitance objects can be combined in any configuration. Thermal-specific objects such as contact conductance, insulation, heat loads, and heaters can be added to model anything from automotive components to manned spacecraft.",
+	"sub_sections" : [
+		{
+			"order" : ["text1","text2"],
+			"text1" : "Thermal Desktop provides full parameterization using variables and arbitrarily complex expressions as input rather than hardwired numbers. These variables, called Symbols, allow models to be rapidly manipulated with a few keystrokes, meaning updating or maintaining the model is easy, as is performing sensitivity studies and investigating what-if scenarios. This also provides access to SINDA/FLUINT’s Optimization and Reliability modules and automatic model correlation.",
+			"text2" : "Once the model is ready, Thermal Desktop launches SINDA/FLUINT, and shows the results in a post-processing window. You can visualize the temperatures and heat flows to understand all the nuances of your thermal system. With the optional modules RadCAD and FloCAD, you can see environmental heat rates, pressures, flow rates, and much more. Powerful post-processing tools include automatically determining maximum and minimum temperatures, plotting component temperatures, exporting results to a file for Excel, and even creating a video of a temperature plot through time."
+		},
+		{
+			"order" : ["text1","text2"],
+			"text1" : "Two seamlessly integrated modules are available with Thermal Desktop. RadCAD calculates radiation heat transfer between components within the model and between the model and the environment. FloCAD adds the capability to model flow circuits, including fans and convective heat transfer. These fluid models integrate with the thermal models and are solved together, enabling accurate modeling of devices such as radiator systems or cryogenic lines.",
+			"text2" : "Thermal Desktop's capabilities can be expanded even more by adding TD Direct, our advanced meshing software that is easily integrated into Thermal Desktop. TD Direct is ideal for complex geometry, rapid design interations, fluid volumes for Compartments, pipe centerlines, and many other fuctions."
+		},
+		{
+			"order" : ["text1"],
+			"text1" : "Thermal Desktop is used by thermal engineers around the globe. It is not a compromise of many disciplines rolled into a single product; this is nothing but the very best of thermal and fluids analysis."
+		},
+		{
+			"order" : ["text1", "link"],
+			"text1" : "For trial license and product information, please",
+			"link" : {
+				"text" : "Contact Us",
+				"link" : "/contact"
+
+			}
+		}
+	]
+}

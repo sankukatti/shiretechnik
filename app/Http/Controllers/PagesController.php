@@ -25,11 +25,11 @@ class PagesController extends Controller
 		return view( 'pages.about' );
 	}
 
-	public function getElecCooling( Request $request ) {
-		/*Get json file which contains HVAC content*/
-		$path 				= storage_path() . "/json/elecCooling.json";
+	public function getCaeses( Request $request ) {
+		/*Get json file which contains Caeses content*/
+		$path 				= storage_path() . "/json/caeses.json";
 		$json 				= json_decode(file_get_contents($path), true); 
-		$directoryName 		= 'elecCooling';
+		$directoryName 		= 'caeses';
 
 		$files = $this->getImageFiles($directoryName);
 
@@ -70,22 +70,27 @@ class PagesController extends Controller
 		return view( 'pages.allPages', [ 'images' => $files ,'json' => $json ] );	
 	}
 
-	public function getAerospace( Request $request ) {
-		/*Get json file which contains HVAC content*/
-		$path 				= storage_path() . "/json/aerospace.json";
+	public function getThermal( Request $request ) {
+		/*Get json file which contains Thermal content*/
+		$path 				= storage_path() . "/json/thermal.json";
 		$json 				= json_decode(file_get_contents($path), true); 
-		$directoryName 		= 'aerospace';		
+		$directoryName 		= 'thermal';
 
 		$files = $this->getImageFiles($directoryName);
 
-		return view( 'pages.allPages', [ 'images' => $files ,'json' => $json ] );	
+		return view( 'pages.allPages', [ 'images' => $files ,'json' => $json ] );
 	}
 
-	public function getAutomibile( Request $request ) {
+	public function getTcfd( Request $request ) {
+		/*Content is same as turbosoftware*/
+		return view( 'pages.turboSoftware' );
+	}
+
+	public function getVisualdoc( Request $request ) {
 		/*Get json file which contains HVAC content*/
-		$path 				= storage_path() . "/json/automobile.json";
+		$path 				= storage_path() . "/json/visualdoc.json";
 		$json 				= json_decode(file_get_contents($path), true); 
-		$directoryName 		= 'automobile';		
+		$directoryName 		= 'visualdoc';
 
 		$files = $this->getImageFiles($directoryName);
 
@@ -125,21 +130,54 @@ class PagesController extends Controller
 		return view( 'pages.allPages', [ 'images' => $files ,'json' => $json ] );	
 	}
 
-	public function getDefence( Request $request ) {
+	public function getGenesis( Request $request ) {
 		/*Get json file which contains HVAC content*/
-		$path 				= storage_path() . "/json/defence.json";
+		$path 				= storage_path() . "/json/genesis.json";
 		$json 				= json_decode(file_get_contents($path), true); 
-		$directoryName 		= 'defence';		
+		$directoryName 		= 'genesis';		
 
 		$files = $this->getImageFiles($directoryName);
 
 		return view( 'pages.allPages', [ 'images' => $files ,'json' => $json ] );	
 	}
 
+	public function getElecCooling( Request $request ) {
+		/*Get json file which contains HVAC content*/
+		$path 				= storage_path() . "/json/elecCooling.json";
+		$json 				= json_decode(file_get_contents($path), true); 
+		$directoryName 		= 'elecCooling';		
+
+		$files = $this->getImageFiles($directoryName);
+
+		return view( 'pages.allPages', [ 'images' => $files ,'json' => $json ] );
+	}
+
 	public function getTurboSoftware( Request $request ) {
 		return view( 'pages.turboSoftware' );	
 	}
 
+	public function getfrdshipSystems ( Request $request ) {
+		return view( 'pages.friendshipSystems' );
+	}
+
+	public function getVRand ( Request $request ) {
+		return view( 'pages.vrand' );
+	}
+
+	public function getCfdsupport ( Request $request ) {
+		return view( 'pages.turboSoftware' );
+	}
+
+	public function getCandrtech ( Request $request ) {
+		/*Get json file which contains CRtech content*/
+		$path 				= storage_path() . "/json/crtech.json";
+		$json 				= json_decode(file_get_contents($path), true); 
+		$directoryName 		= 'crtech';		
+
+		$files = $this->getImageFiles($directoryName);
+
+		return view( 'pages.allPages', [ 'images' => $files ,'json' => $json ] );
+	}
 
 	function getImageFiles($directoryName) {
 		/*Directory containing hvac image files*/

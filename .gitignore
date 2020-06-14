@@ -9,3 +9,7 @@
 Homestead.json
 Homestead.yaml
 .env
+*.lock
+/public/bower_components
+/public/.sass-cache
+.DS_Store

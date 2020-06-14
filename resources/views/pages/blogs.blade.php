@@ -29,3 +29,10 @@
 		</section>
 	</div>
 @endsection
+<style type="text/css">
+		.footer-section {
+			position: fixed;
+			width: 100%;
+			bottom: 0;
+		}
+	</style>

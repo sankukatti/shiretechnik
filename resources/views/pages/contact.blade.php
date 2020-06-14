@@ -13,7 +13,7 @@
 
 				<div class="address">	
 					<strong class="">Bangalore office</strong>	
-					<p>#245, Shivakunj, 1st main, 3rd cross,</p>
+					<p>166, 5th Main,</p>
 					<p>K.E.B layout,</p>
 					<p>Sanjaynagar</p>
 					<p>Bangalore 560 094,</p>
@@ -23,15 +23,16 @@
 				</div>	
 
 				<hr/>
-				<div class="address">	
-					<strong class="">Chennai office</strong>	
-					<p>No.8, Muthu Garden 2nd Street,</p>
-					<p>Sivan Koil Street,</p>
-					<p>Kodambakkam,</p>
-					<p>Chennai 600 024.</p>
+				<div class="address">
+					<strong class="">Chennai office</strong>
+					<p>No: 51, Sigaram Towers,</p>
+					<p>Kumaran Colony Main Road,</p>
+					<p>Next to Apollo Medical Center,</p>
+					<p>Vadapalani,</p>
+					<p>Chennai 600 026.</p>
 					<p>Tamilnadu.</p>
 					<p>Email: info@shiretechnik.com</p>
-					<p>Ph: +91-9600117100</p>
+					<!-- <p>Ph: +91-9600117100</p> -->
 				</div>	
  
 			</div>
@@ -88,3 +89,10 @@
 	</div>
 </section>
 @endsection
+<style type="text/css">
+	.footer-section {
+		position: fixed;
+		width: 100%;
+		bottom: 0;
+	}
+</style>

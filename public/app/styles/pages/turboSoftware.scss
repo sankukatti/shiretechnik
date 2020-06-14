@@ -50,4 +50,15 @@
 	.contactUs {
 		margin-top: 20px;
 	}
+
+	.flex-container {
+		display: flex;
+		margin: 40px 20px;
+		justify-content: center;
+		
+		.flex-child {
+			margin: 0px 50px; 
+		}
+	}
+	
 }

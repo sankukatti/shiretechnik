@@ -22,11 +22,17 @@ Route::get( '/products/reliability', 'PagesController@getReliability' );
 Route::get( '/products/turboSoftware', 'PagesController@getTurboSoftware' );
 Route::get( '/products/crtechSolutions', 'PagesController@getcrTech' );
 
-Route::get( '/industries/aerospace', 'PagesController@getAerospace' );
-Route::get( '/industries/automobile', 'PagesController@getAutomibile' );
-Route::get( '/industries/elecCooling', 'PagesController@getElecCooling' );
+Route::get( '/industries/tcfd', 'PagesController@getTcfd' );
+Route::get( '/industries/visualdoc', 'PagesController@getVisualdoc' );
+Route::get( '/industries/caeses', 'PagesController@getCaeses' );
 Route::get( '/industries/consumerProducts', 'PagesController@getConsumerProducts' );
-Route::get( '/industries/defence', 'PagesController@getDefence' );
+Route::get( '/industries/genesis', 'PagesController@getGenesis' );
+Route::get( '/industries/thermal', 'PagesController@getThermal' );
+
+Route::get( '/partners/friendshipSystems', 'PagesController@getfrdshipSystems');
+Route::get( '/partners/vrand', 'PagesController@getVRand');
+Route::get( '/partners/cfdsupport', 'PagesController@getCfdsupport');
+Route::get( '/partners/candrtech', 'PagesController@getCandrtech');
 
 Route::get( '/about', 'PagesController@getAbout' );
 

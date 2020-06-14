@@ -38,3 +38,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+Setting up project:
+
+Step 1: Install PHP higher that 7.2.5. https://www.cloudbooklet.com/how-to-install-php-7-3-on-ubuntu-18-04/
+Step 2: Install composer. https://getcomposer.org/download/
+Step 3: Install Virtual box.https://www.virtualbox.org/wiki/Linux_Downloads.
+Step 4: Install Vagrant. https://www.vagrantup.com/downloads.html.
+Step 5: vagrant box add laravel/homestead

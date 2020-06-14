@@ -1,4 +1,4 @@
-{	
+{
 	"one" : {
 		"title" : "HVAC Services",
 		"desc1" : "",
@@ -22,7 +22,7 @@
 		"desc1" : "",
 		"desc2" : "",
 		"list" : [
-			"Concept level analysis", "Board level analysis", "Component level analysis", 
+			"Concept level analysis", "Board level analysis", "Component level analysis",
 			"System level analysis", "Uses the Leading Thermal Simulation Tools" ],
 		"link" 	: "/products/elecCooling"
 	},
@@ -32,16 +32,8 @@
 		"desc1" : "",
 		"desc2" : "",
 		"list" : [
-			"Open FOAM based CFD Workflow for rotating machinery", 
+			"Open FOAM based CFD Workflow for rotating machinery",
 			"Turbo blade Post -Post processing Para View Plugin"],
 		"link" 	: "/products/turboSoftware"
-	},
-
-	"five" : {
-		"title" : "Heat Transfer and Fluid Flow Modeling Software",
-		"desc1" : "",
-		"desc2" : "Image courtesy C&R Technologies®",
-		"list"  : ["Tools are highly extensible and customizable.", "They are fully parametric.", "Able to respond to dynamically to model changes.", "API for other tools for Integrating with SINDA/FLUINT and Thermal Desktop®, RadCAD®, FloCAD®"],
-		"link"  : "/products/crtechSolutions"
 	}
 }

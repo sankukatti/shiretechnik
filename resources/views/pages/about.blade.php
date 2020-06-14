@@ -39,36 +39,30 @@
 			</p>
 
 			<div class="row">
-				<div class="col-sm-3" data-toggle="modal" data-target="#shankar">
+				<div class="col-sm-4" data-toggle="modal" data-target="#shankar">
 					<img class="team-image" src="images/about/shankar.jpg"/>
 					<p class="bold blue" >
 						Shankar S - Director Engineering
 					</p>
 				</div>	
-				<div class="col-sm-3" data-toggle="modal" data-target="#sandeep">
+				<div class="col-sm-4" data-toggle="modal" data-target="#sandeep">
 					<img class="team-image" src="images/about/sandeep.png"/>
 					<p class="bold blue" >
 						Sandeep Nandi - Lead Thermal &amp; Mechanical
 					</p>
 				</div>
-				<div class="col-sm-3" data-toggle="modal" data-target="#debasis">
+				<div class="col-sm-4" data-toggle="modal" data-target="#debasis">
 					<img class="team-image" src="images/about/debasis.png"/>
 					<p class="bold blue">
 						Debasis - Director Operations
 					</p>
 				</div>
-				<div class="col-sm-3" data-toggle="modal" data-target="#moumita">
+				<!-- <div class="col-sm-3" data-toggle="modal" data-target="#moumita">
 					<img class="team-image" src="images/about/moumita.jpg"/>
 					<p class="bold blue">
 						Moumita- Design Consultant
 					</p>
-				</div>
-								<div class="col-sm-3" data-toggle="modal" data-target="#anjan">
-					<img class="team-image" src="images/about/moumita.jpg"/>
-					<p class="bold blue">
-						Moumita- Design Consultant
-					</p>
-				</div>			
+				</div>	 -->		
 			</div>
 			
 			<div class="row">
@@ -234,28 +228,6 @@
 				<div class="modal-body">
 					<p class="block justify">
 						Moumita has eight years of professional experience in product development in automotive and petroleum industry. She holds a Master’s degree in Chemical Engineering from Indian Institute of Technology (IIT), Chennai. She has deep expertise in CFD simulation tools, worked in thermal modeling of electrochemical energy storage devices, computational fluid flow and heat analysis in Evaporator & Distillation Columns using COMSOL software. Her other areas of expertise are - Heat Transfer Analysis of Heat Exchangers, Optimization of natural and forced convection in storage tanks, MATLAB and Simulink modeling of battery and Solar PV modules. 
-					</p>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-				</div>
-			</div>
-
-		</div>
-	</div>
-	
-	<div id="anjan" class="modal fade" role="dialog">
-		<div class="modal-dialog">
-
-			<!-- Modal content-->
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Anajn - Advisory Board Member </h4>
-				</div>
-				<div class="modal-body">
-					<p class="block justify">
-						Former space scientist, Subrata is an experienced leader of organization units delivering strong top-line and bottom-line growth through innovation, quality execution, and premier customer service. He has served 17 years in progressive roles in technology industry, including global product portfolio leadership, country management, best known methods influencing thermal industry's design practices. Subrata has expertise across thermal engineering and EMI/EMC leadership in marquee organizations like ISRO, Intel, Parker Hannifin. He has also served hundreds of customers in a wide variety of settings, including flagship and global accounts, across 10+ markets. Subrata is an alumnus of UC Berkeley Haas School of Business, IIT Delhi, and Jadavpur University.
 					</p>
 				</div>
 				<div class="modal-footer">
