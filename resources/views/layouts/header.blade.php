@@ -72,7 +72,7 @@
 
 					<!-- <li><a href="javascript:;">Training</a></li> -->
 					<li class="{{ Request::is('about') ? 'active' : ''}}"><a href="/about">About Us</a></li>
-					<li class="{{ Request::is('forum') ? 'active' : ''}}  {{ Request::is('forum/*') ? 'active' : ''}}"><a href="/forum">Forum</a></li>
+					<li class="{{ Request::is('forum') ? 'active' : ''}}  {{ Request::is('forum/*') ? 'active' : ''}}"><a href="/forum">Blog</a></li>
 					<li class="{{ Request::is('careers') ? 'active' : ''}}"><a href="/careers">Career</a></li>
 					<li class="{{ Request::is('contact') ? 'active' : ''}}" ><a href="/contact">Contact Us</a></li>
 				</ul>
