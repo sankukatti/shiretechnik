@@ -41,20 +41,39 @@
 			<div class="row">
 				<div class="col-sm-4" data-toggle="modal" data-target="#shankar">
 					<img class="team-image" src="images/about/shankar.jpg"/>
-					<p class="bold blue" >
+					<p class="bold blue team-member-name" >
 						Shankar S - Director Engineering
 					</p>
 				</div>
 				<div class="col-sm-4" data-toggle="modal" data-target="#sandeep">
 					<img class="team-image" src="images/about/sandeep.png"/>
-					<p class="bold blue" >
+					<p class="bold blue team-member-name" >
 						Sandeep Nandi - Lead Thermal &amp; Mechanical
 					</p>
 				</div>
 				<div class="col-sm-4" data-toggle="modal" data-target="#debasis">
 					<img class="team-image" src="images/about/debasis.png"/>
-					<p class="bold blue">
+					<p class="bold blue team-member-name">
 						Debasis - Director Operations
+					</p>
+				</div>
+				<div class="col-sm-4" data-toggle="modal" data-target="">
+					<img class="team-image" src="images/about/archan_chaterjee.png"/>
+					<p class="bold blue team-member-name">
+						Archan Chaterjee - Head Sales
+					</p>
+				</div>
+				<div class="col-sm-4" data-toggle="modal" data-target="#milind_k">
+					<img class="team-image" src="images/about/milindKothe.jpeg"/>
+					<p class="bold blue team-member-name" >
+						Milind Kothe
+					</p>
+				</div>
+
+				<div class="col-sm-4" data-toggle="modal" data-target="#manish_b">
+					<img class="team-image" src="images/about/manishb.jpg"/>
+					<p class="bold blue team-member-name" >
+						Manish B
 					</p>
 				</div>
 				<!-- <div class="col-sm-3" data-toggle="modal" data-target="#moumita">
@@ -84,20 +103,6 @@
 					<img class="team-image" src="images/about/shidore.jpg"/>
 					<p class="bold blue" >
 						Sarang Shidore
-					</p>
-				</div>
-
-				<div class="col-sm-3" data-toggle="modal" data-target="#milind_k">
-					<img class="team-image" src="images/about/milindKothe.jpeg"/>
-					<p class="bold blue" >
-						Milind Kothe
-					</p>
-				</div>
-
-				<div class="col-sm-3" data-toggle="modal" data-target="#manish_b">
-					<img class="team-image" src="images/about/manishb.jpg"/>
-					<p class="bold blue" >
-						Manish B
 					</p>
 				</div>
 			</div>
