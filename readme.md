@@ -47,3 +47,4 @@ Step 2: Install composer. https://getcomposer.org/download/
 Step 3: Install Virtual box.https://www.virtualbox.org/wiki/Linux_Downloads.
 Step 4: Install Vagrant. https://www.vagrantup.com/downloads.html.
 Step 5: vagrant box add laravel/homestead
+ssh command - sudo ssh -i ./shiretechnik.pem ubuntu@52.26.252.98
