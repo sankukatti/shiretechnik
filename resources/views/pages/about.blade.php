@@ -42,22 +42,22 @@
 				<div class="col-sm-4" data-toggle="modal" data-target="#shankar">
 					<img class="team-image" src="images/about/shankar.jpg"/>
 					<p class="bold blue team-member-name" >
-						Shankar S - Director Engineering
+						Shankar S - Head of Engineering
 					</p>
 				</div>
 				<div class="col-sm-4" data-toggle="modal" data-target="#sandeep">
 					<img class="team-image" src="images/about/sandeep.png"/>
 					<p class="bold blue team-member-name" >
-						Sandeep Nandi - Lead Thermal &amp; Mechanical
+						Sandeep Nandi - Head of Thermal &amp; Mechanical
 					</p>
 				</div>
 				<div class="col-sm-4" data-toggle="modal" data-target="#debasis">
 					<img class="team-image" src="images/about/debasis.png"/>
 					<p class="bold blue team-member-name">
-						Debasis - Director Operations
+						Debasis - Head of Operations
 					</p>
 				</div>
-				<div class="col-sm-4" data-toggle="modal" data-target="">
+				<div class="col-sm-4" data-toggle="modal" data-target="#archan_c">
 					<img class="team-image" src="images/about/archan_chaterjee.png"/>
 					<p class="bold blue team-member-name">
 						Archan Chaterjee - Head Sales
@@ -66,22 +66,31 @@
 				<div class="col-sm-4" data-toggle="modal" data-target="#milind_k">
 					<img class="team-image" src="images/about/milindKothe.jpeg"/>
 					<p class="bold blue team-member-name" >
-						Milind Kothe
+						Milind Kothe - Application Engineer
 					</p>
 				</div>
 
 				<div class="col-sm-4" data-toggle="modal" data-target="#manish_b">
 					<img class="team-image" src="images/about/manishb.jpg"/>
 					<p class="bold blue team-member-name" >
-						Manish B
+						Manish B - Application Engineer
 					</p>
 				</div>
-				<!-- <div class="col-sm-3" data-toggle="modal" data-target="#moumita">
-					<img class="team-image" src="images/about/moumita.jpg"/>
-					<p class="bold blue">
-						Moumita- Design Consultant
+
+				<div class="col-sm-4" data-toggle="modal" data-target="#psyrus_p">
+					<img class="team-image" src="images/about/psyrus_p.jpeg"/>
+					<p class="bold blue team-member-name" >
+						Psyrus Panda - Sales and Support Engineer
 					</p>
-				</div>	 -->
+				</div>
+
+				<div class="col-sm-4" data-toggle="modal" data-target="#pradeep_k">
+					<img class="team-image" src="images/about/pradeep_k.jpeg"/>
+					<p class="bold blue team-member-name" >
+						Pradeep Kunta - Service Engineer
+					</p>
+				</div>
+
 			</div>
 
 			<div class="row">
@@ -92,13 +101,6 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-sm-3" data-toggle="modal" data-target="#subrata">
-					<img class="team-image" src="images/about/subrata.jpg"/>
-					<p class="bold blue" >
-						Subrata Patra
-					</p>
-				</div>
-
 				<div class="col-sm-3" data-toggle="modal" data-target="#sarang_shidore">
 					<img class="team-image" src="images/about/shidore.jpg"/>
 					<p class="bold blue" >
@@ -108,28 +110,6 @@
 			</div>
 		</div>
 	</section>
-
-	<div id="subrata" class="modal fade" role="dialog">
-		<div class="modal-dialog">
-
-			<!-- Modal content-->
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Subrata Patra - Advisory Board Member </h4>
-				</div>
-				<div class="modal-body">
-					<p class="block justify">
-						Former space scientist, Subrata is an experienced leader of organization units delivering strong top-line and bottom-line growth through innovation, quality execution, and premier customer service. He has served 17 years in progressive roles in technology industry, including global product portfolio leadership, country management, best known methods influencing thermal industry's design practices. Subrata has expertise across thermal engineering and EMI/EMC leadership in marquee organizations like ISRO, Intel, Parker Hannifin. He has also served hundreds of customers in a wide variety of settings, including flagship and global accounts, across 10+ markets. Subrata is an alumnus of UC Berkeley Haas School of Business, IIT Delhi, and Jadavpur University.
-					</p>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-				</div>
-			</div>
-
-		</div>
-	</div>
 
 	<div id="sarang_shidore" class="modal fade" role="dialog">
 		<div class="modal-dialog">
@@ -169,7 +149,7 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Shankar S - Lead Thermal & CFD</h4>
+					<h4 class="modal-title">Shankar S - Head of Thermal & CFD</h4>
 				</div>
 				<div class="modal-body">
 					<p class="block justify">
@@ -195,7 +175,7 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Sandeep Nandi - Lead Thermal &amp; Mechanical</h4>
+					<h4 class="modal-title">Sandeep Nandi - Head of Thermal &amp; Mechanical</h4>
 				</div>
 				<div class="modal-body">
 					<p class="block justify">
@@ -220,7 +200,7 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Debasis - Lead HVAC design</h4>
+					<h4 class="modal-title">Debasis - Head of Operations</h4>
 				</div>
 				<div class="modal-body">
 					<p class="block justify">
@@ -264,7 +244,7 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Manish B</h4>
+					<h4 class="modal-title">Manish B - Application Engineer</h4>
 				</div>
 				<div class="modal-body">
 					<p class="block justify">
@@ -286,11 +266,33 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Milind Kothe</h4>
+					<h4 class="modal-title">Milind Kothe - Application Engineer</h4>
 				</div>
 				<div class="modal-body">
 					<p class="block justify">
 						Milind is Mechanical engineer and GATE qualified; his focus areas are parametric modeling and CFD analysis in turbomachinery domain.
+					</p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<div id="archan_c" class="modal fade" role="dialog">
+		<div class="modal-dialog">
+
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Archan Chaterjee - Head Sales</h4>
+				</div>
+				<div class="modal-body">
+					<p class="block justify">
+						 Archan, having more than 15 years experience in the field of engineering sales and marketing. He has International marketing and business development experience. Expertise in new product promotions, sales, business strategy making.
 					</p>
 				</div>
 				<div class="modal-footer">
