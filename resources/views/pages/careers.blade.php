@@ -12,22 +12,22 @@
 					</p>
 
 					<p class="block bold">
-						Our passion towards engineering services and pursuit of excellence in engineering has created a unique identity in our industry! If you have the same passion and dreaming of shaping your ideas to reality, apply for a suitable position. Shiretechnik gives you a range of opportunities for career growth. 
+						Our passion towards engineering services and pursuit of excellence in engineering has created a unique identity in our industry! If you have the same passion and dreaming of shaping your ideas to reality, apply for a suitable position. Shiretechnik gives you a range of opportunities for career growth.
 					</p>
 				</div>
 			</div>
-			
+
 			<div class="row current-opportunities">
 				<div class="col-sm-12">
 					<p class="block blue">
-						Current Opportunities at Shiretechnik: 
-					</p>		
-					@if( count($json['openings']) <= 0) 
+						Current Opportunities at Shiretechnik:
+					</p>
+					@if( count($json['openings']) <= 0)
 						<p class="block blue">
-							(No openings available. Please watch this space.)
+							(We are running courses on numerical CFD, please look our linkedin page for free webinar , if you are interested please write to us  and registered for free webinar.)
 						</p>
-					@else 
-						
+					@else
+
 
 						<ol class="block list">
 						@for ($i = 0; $i < count($json['openings']); $i++)
@@ -63,17 +63,10 @@
 							<button type="submit" class="btn btn-default background-blue white">Submit</button>
 
 						</div>
-					</form>	
+					</form>
 				</div>
-					
+
 			</div>
 		</div>
-	</section>	
+	</section>
 @endsection
-<style type="text/css">
-		.footer-section {
-			position: fixed;
-			width: 100%;
-			bottom: 0;
-		}
-	</style>
