@@ -70,9 +70,11 @@
 						</ul>
 					</li>
 
-					<!-- <li><a href="javascript:;">Training</a></li> -->
 					<li class="{{ Request::is('about') ? 'active' : ''}}"><a href="/about">About Us</a></li>
-					<li class="{{ Request::is('forum') ? 'active' : ''}}  {{ Request::is('forum/*') ? 'active' : ''}}"><a href="/forum">Blog</a></li>
+					<li class="{{ Request::is('forum') ? 'active' : ''}}  {{ Request::is('forum/*') ? 'active' : ''}}">
+						<a href="/forum">Blog</a>
+					</li>
+					<li class="{{ Request::is('trainings') ? 'active' : ''}}"><a href="/trainings">Trainings</a></li>
 					<li class="{{ Request::is('careers') ? 'active' : ''}}"><a href="/careers">Opportunity</a></li>
 					<li class="{{ Request::is('contact') ? 'active' : ''}}" ><a href="/contact">Contact Us</a></li>
 				</ul>

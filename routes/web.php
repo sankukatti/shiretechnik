@@ -44,3 +44,4 @@ Route::post( '/careers', 'CareersController@addProfile');
 
 Route::get( '/forum', 'ForumController@getBlogs');
 Route::get( '/forum/{blog_id}', 'ForumController@getBlog');
+
