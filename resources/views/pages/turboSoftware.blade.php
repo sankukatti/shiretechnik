@@ -8,26 +8,13 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<p class="title-text bold blue title-spacing capitalize">
-						Software
+						Turbomachinery CFD
 					</p>
 
 					
 				</div>
 			</div>
 
-			<div class="row">
-				
-
-				<div class="col-sm-12">
-					<img class="image" src="/images/turboSoftware/img2.png">
-					<p class="block text justify cfd-support">
-						<span>We are authorised partner for  </span>
-						<a href="http://www.cfdsupport.com" target="_blank">
-							<img src="/images/turboSoftware/cfdLogo.png">
-						</a>
-					</p>
-				</div>
-			</div>
 
 			<div class="row">
 				<div class="col-sm-12">
@@ -168,7 +155,7 @@
 			</div>
 
 			<p class="block text justify contactUs">
-				For Demo and product detail please
+				For trial license and more product information, please
 				<a href="/contact">Contact us</a>
 			</p>
 		</div>

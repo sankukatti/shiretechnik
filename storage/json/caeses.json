@@ -1,0 +1,62 @@
+{
+	"order" : ["title", "images"],
+	"imageTitle" : {
+		"top" : "Our Thermal Design Capabilities & Expertise",
+		"bottom" : "Thermal Analysis Cycle" 
+	},
+	"class" : "caeses",
+	"title" : "CAESES",
+	"text" : "CAESES is a flexible CAD platform for fast and comprehensive design studies with simulation tools. Integrated capabilities for process automation and shape optimization make it an all-in-one design tool for simulation engineers.",
+	
+	"sub_sections" : [
+		{
+			"order" : ["subtitle", "text1"],
+			"subtitle": "GEOMETRY MODELING",
+			"text1": "CAESES® foundation is a powerful and flexible parametric 3D modeler. The main purpose: Robust variable geometry with fewer parameters."
+		},
+		{
+			"order" : ["subtitle", "text1"],
+			"subtitle": "SIMULATION-READY",
+			"text1": "Create a clean and robust parametric geometry that is ideal for automated meshing and analysis."
+		},
+		{
+			"order" : ["subtitle", "text1"],
+			"subtitle": "CFD AUTOMATION",
+			"text1": "Integrate, launch and control your simulation runs. Let it be your flexible GUI for process automation incl. 3D post-processing."
+		},
+		{
+			"order" : ["subtitle", "text1"],
+			"subtitle": "OPTIMIZATION",
+			"text1": "CAESES® offers integrated methods for automated design explorations and shape optimization."
+		},
+		{
+			"order" : ["subtitle", "text1"],
+			"subtitle": "SHAPE DEFORMATION",
+			"text1": "Optimize imported geometries by using the shape deformation and morphing techniques of CAESES."
+		},
+		{
+			"order" : ["subtitle", "text1"],
+			"subtitle": "POWERFUL SCRIPTING",
+			"text1": "CAESES® is a command-driven platform that can be fully scripted and customized. Includes batch mode capabilities."
+		},
+		{
+			"order" : ["subtitle", "text1"],
+			"subtitle": "ADJOINT CFD",
+			"text1": "Accelerate your shape optimization process by mapping the results of an adjoint flow analysis to the geometry parameters."
+		},
+		{
+			"order" : ["subtitle", "text1"],
+			"subtitle": "CUSTOM TEMPLATES",
+			"text1": "Get your flexible CAESES model in just a few days! Customized to your needs and easy to use. No CAESES expertise required."
+		},
+		{
+			"order" : ["subtitle", "text1", "link"],
+			"subtitle": "CAESES FOR YOUR APPLICATION",
+			"text1": "Interested in automated geometry generation and shape optimization with your simulation tools? Do you want to discuss your specific application? ",
+			"link" : {
+				"link": "/contact",
+				"text": "Get in touch with us today!"
+			}
+		}
+	]
+}

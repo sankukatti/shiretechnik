@@ -1,0 +1,44 @@
+{
+	"order" : ["title", "images"],
+	"class" : "genesis",
+	"title" : "GENESIS",
+	"text"  : "The leading structural analysis and optimization software",
+	"sub_sections" : [
+		{
+			"order" : ["subtitle"],
+			"subtitle" : "GENESIS Structural Analysis and Optimization Software"
+		},
+		{
+			"order" : ["subtitle", "text1"],
+			"subtitle" : "What it is:",
+			"text1" : "GENESIS Structural Analysis and Optimization Software is a fully integrated analysis and design optimization software package, written by leading experts in structural optimization. Finite element analysis is based on the finite element method for static, normal modes, direct and modal frequency analysis, random response analysis, heat transfer and system buckling calculations. Structural optimization types include sizing, shape, topology, topometry, topography  and freeform optimization. Special advanced features include: multi-model optimization (MMO) and reliability based optimization (RBO)."
+		},
+		{
+			"order" : ["subtitle", "list"],
+			"subtitle" : "Solutions provided from GENESIS:",
+			"list" : [
+				"Automotive OEM – Light-weighting & cost reduction requirements set by the government CAFÉ standards",
+				"Automotive Tier Suppliers – Support needs for whole CAD/CAE solution",
+				"Engineering Consultants – Provide an environment for innovation and multidisciplinary optimization for coupling almost any 3rd party engineering software",
+				"Aerospace – Improve the design target and satisfy design requirement in efforts to reduce cost and light-weighting",
+				"Heavy Industry – Reducing weight while improving rigidity of machine to result in a more efficient design"
+			]
+		},
+		{
+			"order" : ["subtitle", "list"],
+			"subtitle" : "The benefits of GENESIS include:",
+			"list" : [
+				"Reduction in cost and improvement in performance – By generating new designs based on user criteria such as mass minimization, frequency maximization, stress or displacement constraints and more.",
+				"Reduction in engineering time – GENESIS has powerful embedded solvers such as our SMS eigensolver, which speeds up solving time and are quick for small to midsize problems and even faster for very large problems.",
+				"Innovative designs come to life – Robust designs can be realized as our optimizer BIGDOT, can handle extremely large numbers of design variables.This allows an engineer to explore the entire design space with either topology, topometry or topography optimization."
+			]
+		},
+		{
+			"order" : ["subtitle", "list"],
+			"subtitle" : "Special application of GENESIS:",
+			"list" : [
+				"Additive Manufacturing – One important usage of GENESIS topology optimization is for Additive Manufacturing. GENESIS can generate optimal shapes and together with Design Studio, the user can automatically generate lattice structures that can be manufactured with 3D printing."
+			]
+		}
+	]
+}
