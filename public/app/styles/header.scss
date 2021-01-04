@@ -9,7 +9,7 @@
 		.navbar-header {
 			.navbar-brand {
 				padding: 9px 15px;
-				
+
 				img {
 					/*width : 150px;*/
 					max-height: 120px;
@@ -19,8 +19,8 @@
 
 		.navbar-right {
 			margin-top: 70px;
-			margin-right: 5px;
-			margin-left: 5px;
+			margin-right: 1px;
+			margin-left: 1px;
 
 			li {
 				border-top: $boderWidth solid transparent;
@@ -34,7 +34,7 @@
 					.caret {
 						margin: 0px 5px;
 					}
-				}	
+				}
 
 				&:hover {
 					/*border-top: $boderWidth solid $logoBrown;
@@ -84,7 +84,7 @@
 					background-color: $backgroundColour;
 				}
 			}
-			
+
 		}
 	}
 }

@@ -20,6 +20,7 @@
 	<script type="text/javascript" src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="/bower_components/datatables.net/js/jquery.dataTables.min.js"></script>
 	<script type="text/javascript" src="/app/scripts/bootstrap-dropdown-hover.js"></script>
+	<script type="text/javascript" src="/app/scripts/all-trainings-table-as-data-table.js"></script>
 
 </head>
 <body>

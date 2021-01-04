@@ -1,0 +1,34 @@
+{
+    "thermalManagement": {
+        "title": "Thermal Management of Electronic Systems",
+        "text": "Thermal management course is designed to provide youindustry level exposure to Electronics cooling design.",
+        "varients": [
+            {
+                "title": "Professional Course",
+                "desc": "This 3-day short course (24 hours) is designed for hardware/electrical/electronics/mechanical engineers, managers & academic personnel.This course covers the principles of heat transfer, overview of thermal management methodologies, technologies, practice and measurements, as well as analysing the industry case studies and an optional end-of-course assessment test. Detailed documents shared.",
+                "link" : {
+    				"link": "/contact",
+    				"text": "Contact us"
+    			}
+            },
+            {
+                "title": "Student Course",
+                "desc": "This 1-month course (32 hours) is exclusively designed for students.This course covers the principles of heat transfer, overview of thermal management methodologies, technologies, practice and measurements, as well as analysing the industry case studies and regular assignments will be given for practice during the course. The course also offers an optional end-of-course assessment test.",
+                "link" : {
+    				"link": "/contact",
+    				"text": "Contact us"
+    			}
+            }
+        ],
+        "images": [
+            {
+                "img": "trainings/thermalManagement/spacerLogo.png",
+                "imgTitle": "Analytical Thermal Solver for Heatsink Design Analysis"
+            },
+            {
+                "img": "trainings/thermalManagement/trainingImg.png",
+                "imgTitle": ""
+            }
+        ]
+    }
+}

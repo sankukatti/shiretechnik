@@ -35,6 +35,8 @@ Route::get( '/partners/cfdsupport', 'PagesController@getCfdsupport');
 Route::get( '/partners/candrtech', 'PagesController@getCandrtech');
 
 Route::get( '/about', 'PagesController@getAbout' );
+Route::get( '/trainings', 'TrainingsController@getAllTrainings' );
+Route::get( '/trainings/{training_id}', 'TrainingsController@getTraining' );
 
 Route::get( '/contact', 'ContactsController@getContact' );
 Route::post( '/contact', 'ContactsController@sendContact' );
@@ -44,4 +46,3 @@ Route::post( '/careers', 'CareersController@addProfile');
 
 Route::get( '/forum', 'ForumController@getBlogs');
 Route::get( '/forum/{blog_id}', 'ForumController@getBlog');
-
