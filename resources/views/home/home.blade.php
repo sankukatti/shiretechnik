@@ -31,33 +31,33 @@
 								    @endif
 						                    <img src="images/slider/{{ $files[$i][0] }}" alt="Cfd3"/>
 						                    @if( count($files[$i]) > 1 )
-								            	<a href= @if( isset( $files[$i][1]['link'] ) ) 
+								            	<a href= @if( isset( $files[$i][1]['link'] ) )
 								            				{{$files[$i][1]['link']}}
 								            			@endif >
 								            		<div class="carousel-caption">
 								                        <h5>{{$files[$i][1]['title']}}</h5>
-								                        
+
 								                        @if( isset( $files[$i][1]['list'] ) )
 								                        	<ul class="block list">
-											
+
 																@for ( $k = 0; $k < count( $files[$i][1]['list'] ); $k++ )
 																	<li class="text">
 																		{{ $files[$i][1]['list'][$k] }}
 																	</li>
 																@endfor
-																
+
 															</ul>
 								                        @endif
-								                        
+
 								                        <p>{{$files[$i][1]['desc1']}}</p>
 								                        <p class="very-small-text">{{$files[$i][1]['desc2']}}</p>
 								                    </div>
-								            	</a>     
-								                    
+								            	</a>
+
 							                @endif
 					                	</div>
 								@endfor
-				                
+
 
 				            </div>
 
@@ -72,21 +72,21 @@
 				            </a>
 				        </div> <!-- END #homeCarousel -->
 					</div>
-				</div> 
+				</div>
 			</div> <!-- END SLIDER -->
 		</div> <!-- END CONTAINER -->
 
 		<section class="after-header">
 			<div class="container">
 				<div class="row">
-					
+
 					<div class="col-sm-6">
 						<p class="headding blue bold">
 							Why <span class="">Shiretechnik</span>?
-						</p>	
+						</p>
 
 						<div class="image-div">
-							<img src="images/home/image1.png">
+							<img src="images/home/image1.jpeg">
 						</div>
 
 						<ul class="list">
@@ -134,14 +134,14 @@
 									We are authorised solution partner for Wildeboer Bauteile GmbH
 							</a>
 							<img class="brand-image" src="/images/home/wildeboer.png"/> -->
-						</p>	
+						</p>
 
 						<div class="video-div">
 							<video autoplay loop>
 								<source src="/videos/TotalSim.mp4" type="video/mp4" />
 								Your browser does not support the video tag.
 							</video>
-							<!-- <iframe type="text/html" 
+							<!-- <iframe type="text/html"
 							    src="http://www.youtube.com/embed/cSsbcuZvO1I?autoplay=1&loop=1&playlist=cSsbcuZvO1I"
 							    frameborder="0">
 							</iframe> -->
@@ -178,6 +178,15 @@
 								</p>
 							</li>
 						</ul>
+						<div class="image-div">
+							<p class="headding blue bold">
+								New major release: CASES 5
+							</p>
+							<br/>
+							<a href="https://www.caeses.com/news/2021/new-major-release-caeses-5/" target="_blank">
+								<img src="images/home/CAESES.png"/>
+							</a>
+						</div>
 					</div>
 
 				</div>

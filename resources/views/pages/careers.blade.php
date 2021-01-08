@@ -24,7 +24,7 @@
 					</p>
 					@if( count($json['openings']) <= 0)
 						<p class="block blue">
-							(We are running courses on numerical CFD, please look our linkedin page for free webinar , if you are interested please write to us  and registered for free webinar.)
+							(Currently we do not have job openings, please visit for future opportunities.)
 						</p>
 					@else
 
