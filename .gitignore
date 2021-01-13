@@ -1,7 +1,7 @@
 /node_modules
 /public/node_modules
 /public/storage/app
-/public/bower_components
+
 /bower_components
 /public/storage/framework
 /public/storage/logs
@@ -15,4 +15,3 @@ Homestead.yaml
 
 /public/.sass-cache
 .DS_Store
-public/bower_components
