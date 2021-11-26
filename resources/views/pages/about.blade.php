@@ -70,13 +70,6 @@
 					</p>
 				</div>
 
-				<div class="col-sm-4" data-toggle="modal" data-target="#manish_b">
-					<img class="team-image" src="images/about/manishb.jpg"/>
-					<p class="bold blue team-member-name" >
-						Manish B - Application Engineer
-					</p>
-				</div>
-
 				<div class="col-sm-4" data-toggle="modal" data-target="#psyrus_p">
 					<img class="team-image" src="images/about/psyrus_p.jpeg"/>
 					<p class="bold blue team-member-name" >
@@ -227,28 +220,6 @@
 				<div class="modal-body">
 					<p class="block justify">
 						Moumita has eight years of professional experience in product development in automotive and petroleum industry. She holds a Master’s degree in Chemical Engineering from Indian Institute of Technology (IIT), Chennai. She has deep expertise in CFD simulation tools, worked in thermal modeling of electrochemical energy storage devices, computational fluid flow and heat analysis in Evaporator & Distillation Columns using COMSOL software. Her other areas of expertise are - Heat Transfer Analysis of Heat Exchangers, Optimization of natural and forced convection in storage tanks, MATLAB and Simulink modeling of battery and Solar PV modules.
-					</p>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-				</div>
-			</div>
-
-		</div>
-	</div>
-
-	<div id="manish_b" class="modal fade" role="dialog">
-		<div class="modal-dialog">
-
-			<!-- Modal content-->
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Manish B - Application Engineer</h4>
-				</div>
-				<div class="modal-body">
-					<p class="block justify">
-						Manish B is a mechanical graduate from UVCE, his focus areas are parametric modeling and CAE process integration using CAESES and CFD tools. His domain of interest is automotive engineering specially piston bowl, EGR duct and external aerodynamics.
 					</p>
 				</div>
 				<div class="modal-footer">
